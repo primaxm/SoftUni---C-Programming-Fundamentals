@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Sales Report\bin\Debug\netcoreapp2.0\Sales Report.deps.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Sales Report\bin\Debug\netcoreapp2.0\Sales Report.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Sales Report\bin\Debug\netcoreapp2.0\Sales Report.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Sales Report\bin\Debug\netcoreapp2.0\Sales Report.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Sales Report\bin\Debug\netcoreapp2.0\Sales Report.pdb
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Sales Report\obj\Debug\netcoreapp2.0\Sales Report.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Sales Report\obj\Debug\netcoreapp2.0\Sales Report.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Sales Report\obj\Debug\netcoreapp2.0\Sales Report.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Sales Report\obj\Debug\netcoreapp2.0\Sales Report.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Sales Report\obj\Debug\netcoreapp2.0\Sales Report.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Sales Report\obj\Debug\netcoreapp2.0\Sales Report.pdb

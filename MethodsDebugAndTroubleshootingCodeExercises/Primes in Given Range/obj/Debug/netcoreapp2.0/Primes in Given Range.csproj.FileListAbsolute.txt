@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Primes in Given Range\obj\Debug\netcoreapp2.0\Primes in Given Range.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Primes in Given Range\obj\Debug\netcoreapp2.0\Primes in Given Range.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Primes in Given Range\obj\Debug\netcoreapp2.0\Primes in Given Range.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Primes in Given Range\obj\Debug\netcoreapp2.0\Primes in Given Range.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Primes in Given Range\bin\Debug\netcoreapp2.0\Primes in Given Range.deps.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Primes in Given Range\bin\Debug\netcoreapp2.0\Primes in Given Range.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Primes in Given Range\bin\Debug\netcoreapp2.0\Primes in Given Range.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Primes in Given Range\bin\Debug\netcoreapp2.0\Primes in Given Range.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Primes in Given Range\bin\Debug\netcoreapp2.0\Primes in Given Range.pdb
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Primes in Given Range\obj\Debug\netcoreapp2.0\Primes in Given Range.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Primes in Given Range\obj\Debug\netcoreapp2.0\Primes in Given Range.pdb

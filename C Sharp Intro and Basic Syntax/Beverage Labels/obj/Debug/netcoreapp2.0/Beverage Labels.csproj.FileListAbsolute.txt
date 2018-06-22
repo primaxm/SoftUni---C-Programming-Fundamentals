@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Beverage Labels\bin\Debug\netcoreapp2.0\Beverage Labels.deps.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Beverage Labels\bin\Debug\netcoreapp2.0\Beverage Labels.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Beverage Labels\bin\Debug\netcoreapp2.0\Beverage Labels.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Beverage Labels\bin\Debug\netcoreapp2.0\Beverage Labels.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Beverage Labels\bin\Debug\netcoreapp2.0\Beverage Labels.pdb
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Beverage Labels\obj\Debug\netcoreapp2.0\Beverage Labels.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Beverage Labels\obj\Debug\netcoreapp2.0\Beverage Labels.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Beverage Labels\obj\Debug\netcoreapp2.0\Beverage Labels.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Beverage Labels\obj\Debug\netcoreapp2.0\Beverage Labels.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Beverage Labels\obj\Debug\netcoreapp2.0\Beverage Labels.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Beverage Labels\obj\Debug\netcoreapp2.0\Beverage Labels.pdb

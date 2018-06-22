@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Count Working Days\bin\Debug\netcoreapp2.0\Count Working Days.deps.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Count Working Days\bin\Debug\netcoreapp2.0\Count Working Days.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Count Working Days\bin\Debug\netcoreapp2.0\Count Working Days.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Count Working Days\bin\Debug\netcoreapp2.0\Count Working Days.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Count Working Days\bin\Debug\netcoreapp2.0\Count Working Days.pdb
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Count Working Days\obj\Debug\netcoreapp2.0\Count Working Days.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Count Working Days\obj\Debug\netcoreapp2.0\Count Working Days.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Count Working Days\obj\Debug\netcoreapp2.0\Count Working Days.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Count Working Days\obj\Debug\netcoreapp2.0\Count Working Days.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Count Working Days\obj\Debug\netcoreapp2.0\Count Working Days.pdb

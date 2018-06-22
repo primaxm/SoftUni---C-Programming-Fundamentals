@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Price Change Alert\obj\Debug\netcoreapp2.0\Price Change Alert.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Price Change Alert\obj\Debug\netcoreapp2.0\Price Change Alert.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Price Change Alert\obj\Debug\netcoreapp2.0\Price Change Alert.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Price Change Alert\obj\Debug\netcoreapp2.0\Price Change Alert.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Price Change Alert\bin\Debug\netcoreapp2.0\Price Change Alert.deps.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Price Change Alert\bin\Debug\netcoreapp2.0\Price Change Alert.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Price Change Alert\bin\Debug\netcoreapp2.0\Price Change Alert.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Price Change Alert\bin\Debug\netcoreapp2.0\Price Change Alert.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Price Change Alert\bin\Debug\netcoreapp2.0\Price Change Alert.pdb
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Price Change Alert\obj\Debug\netcoreapp2.0\Price Change Alert.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Price Change Alert\obj\Debug\netcoreapp2.0\Price Change Alert.pdb

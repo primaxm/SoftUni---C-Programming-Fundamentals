@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Morse Code Upgraded\bin\Debug\netcoreapp2.0\Morse Code Upgraded.deps.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Morse Code Upgraded\bin\Debug\netcoreapp2.0\Morse Code Upgraded.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Morse Code Upgraded\bin\Debug\netcoreapp2.0\Morse Code Upgraded.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Morse Code Upgraded\bin\Debug\netcoreapp2.0\Morse Code Upgraded.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Morse Code Upgraded\bin\Debug\netcoreapp2.0\Morse Code Upgraded.pdb
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Morse Code Upgraded\obj\Debug\netcoreapp2.0\Morse Code Upgraded.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Morse Code Upgraded\obj\Debug\netcoreapp2.0\Morse Code Upgraded.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Morse Code Upgraded\obj\Debug\netcoreapp2.0\Morse Code Upgraded.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Morse Code Upgraded\obj\Debug\netcoreapp2.0\Morse Code Upgraded.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Morse Code Upgraded\obj\Debug\netcoreapp2.0\Morse Code Upgraded.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Morse Code Upgraded\obj\Debug\netcoreapp2.0\Morse Code Upgraded.pdb

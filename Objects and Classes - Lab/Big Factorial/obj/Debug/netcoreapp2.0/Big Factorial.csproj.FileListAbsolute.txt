@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Big Factorial\bin\Debug\netcoreapp2.0\Big Factorial.deps.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Big Factorial\bin\Debug\netcoreapp2.0\Big Factorial.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Big Factorial\bin\Debug\netcoreapp2.0\Big Factorial.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Big Factorial\bin\Debug\netcoreapp2.0\Big Factorial.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Big Factorial\bin\Debug\netcoreapp2.0\Big Factorial.pdb
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Big Factorial\obj\Debug\netcoreapp2.0\Big Factorial.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Big Factorial\obj\Debug\netcoreapp2.0\Big Factorial.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Big Factorial\obj\Debug\netcoreapp2.0\Big Factorial.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Big Factorial\obj\Debug\netcoreapp2.0\Big Factorial.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Big Factorial\obj\Debug\netcoreapp2.0\Big Factorial.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Big Factorial\obj\Debug\netcoreapp2.0\Big Factorial.pdb

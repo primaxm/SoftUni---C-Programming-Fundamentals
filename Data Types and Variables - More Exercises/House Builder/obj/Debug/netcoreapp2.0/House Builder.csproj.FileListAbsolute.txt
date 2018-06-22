@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\House Builder\obj\Debug\netcoreapp2.0\House Builder.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\House Builder\obj\Debug\netcoreapp2.0\House Builder.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\House Builder\obj\Debug\netcoreapp2.0\House Builder.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\House Builder\obj\Debug\netcoreapp2.0\House Builder.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\House Builder\bin\Debug\netcoreapp2.0\House Builder.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\House Builder\bin\Debug\netcoreapp2.0\House Builder.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\House Builder\bin\Debug\netcoreapp2.0\House Builder.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\House Builder\bin\Debug\netcoreapp2.0\House Builder.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\House Builder\bin\Debug\netcoreapp2.0\House Builder.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\House Builder\obj\Debug\netcoreapp2.0\House Builder.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\House Builder\obj\Debug\netcoreapp2.0\House Builder.pdb

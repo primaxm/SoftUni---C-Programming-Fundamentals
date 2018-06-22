@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Lists - Lab\Append Lists\bin\Debug\netcoreapp2.0\Append Lists.deps.json
+D:\SoftUni\C# Programming Fundamentals\Lists - Lab\Append Lists\bin\Debug\netcoreapp2.0\Append Lists.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Lists - Lab\Append Lists\bin\Debug\netcoreapp2.0\Append Lists.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Lists - Lab\Append Lists\bin\Debug\netcoreapp2.0\Append Lists.dll
+D:\SoftUni\C# Programming Fundamentals\Lists - Lab\Append Lists\bin\Debug\netcoreapp2.0\Append Lists.pdb
+D:\SoftUni\C# Programming Fundamentals\Lists - Lab\Append Lists\obj\Debug\netcoreapp2.0\Append Lists.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Lists - Lab\Append Lists\obj\Debug\netcoreapp2.0\Append Lists.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Lists - Lab\Append Lists\obj\Debug\netcoreapp2.0\Append Lists.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Lists - Lab\Append Lists\obj\Debug\netcoreapp2.0\Append Lists.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Lists - Lab\Append Lists\obj\Debug\netcoreapp2.0\Append Lists.dll
+D:\SoftUni\C# Programming Fundamentals\Lists - Lab\Append Lists\obj\Debug\netcoreapp2.0\Append Lists.pdb

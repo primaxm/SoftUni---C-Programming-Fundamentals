@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Cube Properties\bin\Debug\netcoreapp2.0\Cube Properties.deps.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Cube Properties\bin\Debug\netcoreapp2.0\Cube Properties.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Cube Properties\bin\Debug\netcoreapp2.0\Cube Properties.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Cube Properties\bin\Debug\netcoreapp2.0\Cube Properties.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Cube Properties\bin\Debug\netcoreapp2.0\Cube Properties.pdb
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Cube Properties\obj\Debug\netcoreapp2.0\Cube Properties.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Cube Properties\obj\Debug\netcoreapp2.0\Cube Properties.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Cube Properties\obj\Debug\netcoreapp2.0\Cube Properties.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Cube Properties\obj\Debug\netcoreapp2.0\Cube Properties.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Cube Properties\obj\Debug\netcoreapp2.0\Cube Properties.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Cube Properties\obj\Debug\netcoreapp2.0\Cube Properties.pdb

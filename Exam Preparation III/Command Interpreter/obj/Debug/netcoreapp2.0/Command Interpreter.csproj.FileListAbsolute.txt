@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Command Interpreter\obj\Debug\netcoreapp2.0\Command Interpreter.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Command Interpreter\obj\Debug\netcoreapp2.0\Command Interpreter.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Command Interpreter\obj\Debug\netcoreapp2.0\Command Interpreter.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Command Interpreter\obj\Debug\netcoreapp2.0\Command Interpreter.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Command Interpreter\bin\Debug\netcoreapp2.0\Command Interpreter.deps.json
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Command Interpreter\bin\Debug\netcoreapp2.0\Command Interpreter.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Command Interpreter\bin\Debug\netcoreapp2.0\Command Interpreter.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Command Interpreter\bin\Debug\netcoreapp2.0\Command Interpreter.dll
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Command Interpreter\bin\Debug\netcoreapp2.0\Command Interpreter.pdb
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Command Interpreter\obj\Debug\netcoreapp2.0\Command Interpreter.dll
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Command Interpreter\obj\Debug\netcoreapp2.0\Command Interpreter.pdb

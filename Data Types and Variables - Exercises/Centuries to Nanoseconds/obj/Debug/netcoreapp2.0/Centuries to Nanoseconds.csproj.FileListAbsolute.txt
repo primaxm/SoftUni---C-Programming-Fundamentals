@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\Centuries to Nanoseconds.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\Centuries to Nanoseconds.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\Centuries to Nanoseconds.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\Centuries to Nanoseconds.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\Centuries to Nanoseconds.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\Centuries to Nanoseconds.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\Centuries to Nanoseconds.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\Centuries to Nanoseconds.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\Centuries to Nanoseconds.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\Centuries to Nanoseconds.pdb

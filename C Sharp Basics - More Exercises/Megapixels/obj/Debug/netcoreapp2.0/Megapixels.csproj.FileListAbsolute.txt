@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Megapixels\bin\Debug\netcoreapp2.0\Megapixels.deps.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Megapixels\bin\Debug\netcoreapp2.0\Megapixels.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Megapixels\bin\Debug\netcoreapp2.0\Megapixels.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Megapixels\bin\Debug\netcoreapp2.0\Megapixels.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Megapixels\bin\Debug\netcoreapp2.0\Megapixels.pdb
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Megapixels\obj\Debug\netcoreapp2.0\Megapixels.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Megapixels\obj\Debug\netcoreapp2.0\Megapixels.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Megapixels\obj\Debug\netcoreapp2.0\Megapixels.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Megapixels\obj\Debug\netcoreapp2.0\Megapixels.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Megapixels\obj\Debug\netcoreapp2.0\Megapixels.pdb

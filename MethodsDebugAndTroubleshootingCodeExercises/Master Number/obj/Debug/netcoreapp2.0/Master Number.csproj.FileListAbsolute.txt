@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Master Number\bin\Debug\netcoreapp2.0\Master Number.deps.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Master Number\bin\Debug\netcoreapp2.0\Master Number.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Master Number\bin\Debug\netcoreapp2.0\Master Number.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Master Number\bin\Debug\netcoreapp2.0\Master Number.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Master Number\bin\Debug\netcoreapp2.0\Master Number.pdb
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Master Number\obj\Debug\netcoreapp2.0\Master Number.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Master Number\obj\Debug\netcoreapp2.0\Master Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Master Number\obj\Debug\netcoreapp2.0\Master Number.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Master Number\obj\Debug\netcoreapp2.0\Master Number.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Master Number\obj\Debug\netcoreapp2.0\Master Number.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Master Number\obj\Debug\netcoreapp2.0\Master Number.pdb

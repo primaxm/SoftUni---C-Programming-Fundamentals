@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Boat Simulator\bin\Debug\netcoreapp2.0\Boat Simulator.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Boat Simulator\bin\Debug\netcoreapp2.0\Boat Simulator.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Boat Simulator\bin\Debug\netcoreapp2.0\Boat Simulator.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Boat Simulator\bin\Debug\netcoreapp2.0\Boat Simulator.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Boat Simulator\bin\Debug\netcoreapp2.0\Boat Simulator.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Boat Simulator\obj\Debug\netcoreapp2.0\Boat Simulator.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Boat Simulator\obj\Debug\netcoreapp2.0\Boat Simulator.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Boat Simulator\obj\Debug\netcoreapp2.0\Boat Simulator.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Boat Simulator\obj\Debug\netcoreapp2.0\Boat Simulator.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Boat Simulator\obj\Debug\netcoreapp2.0\Boat Simulator.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Boat Simulator\obj\Debug\netcoreapp2.0\Boat Simulator.pdb

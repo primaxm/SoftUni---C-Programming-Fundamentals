@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Math Power\bin\Debug\netcoreapp2.0\Math Power.deps.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Math Power\bin\Debug\netcoreapp2.0\Math Power.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Math Power\bin\Debug\netcoreapp2.0\Math Power.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Math Power\bin\Debug\netcoreapp2.0\Math Power.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Math Power\bin\Debug\netcoreapp2.0\Math Power.pdb
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Math Power\obj\Debug\netcoreapp2.0\Math Power.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Math Power\obj\Debug\netcoreapp2.0\Math Power.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Math Power\obj\Debug\netcoreapp2.0\Math Power.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Math Power\obj\Debug\netcoreapp2.0\Math Power.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Math Power\obj\Debug\netcoreapp2.0\Math Power.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Math Power\obj\Debug\netcoreapp2.0\Math Power.pdb

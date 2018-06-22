@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\SMS Typing\obj\Debug\netcoreapp2.0\SMS Typing.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\SMS Typing\obj\Debug\netcoreapp2.0\SMS Typing.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\SMS Typing\obj\Debug\netcoreapp2.0\SMS Typing.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\SMS Typing\obj\Debug\netcoreapp2.0\SMS Typing.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\SMS Typing\bin\Debug\netcoreapp2.0\SMS Typing.deps.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\SMS Typing\bin\Debug\netcoreapp2.0\SMS Typing.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\SMS Typing\bin\Debug\netcoreapp2.0\SMS Typing.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\SMS Typing\bin\Debug\netcoreapp2.0\SMS Typing.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\SMS Typing\bin\Debug\netcoreapp2.0\SMS Typing.pdb
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\SMS Typing\obj\Debug\netcoreapp2.0\SMS Typing.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\SMS Typing\obj\Debug\netcoreapp2.0\SMS Typing.pdb

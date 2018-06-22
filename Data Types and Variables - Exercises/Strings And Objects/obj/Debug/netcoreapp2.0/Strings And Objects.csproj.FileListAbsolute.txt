@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Strings And Objects\bin\Debug\netcoreapp2.0\Strings And Objects.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Strings And Objects\bin\Debug\netcoreapp2.0\Strings And Objects.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Strings And Objects\bin\Debug\netcoreapp2.0\Strings And Objects.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Strings And Objects\bin\Debug\netcoreapp2.0\Strings And Objects.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Strings And Objects\bin\Debug\netcoreapp2.0\Strings And Objects.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Strings And Objects\obj\Debug\netcoreapp2.0\Strings And Objects.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Strings And Objects\obj\Debug\netcoreapp2.0\Strings And Objects.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Strings And Objects\obj\Debug\netcoreapp2.0\Strings And Objects.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Strings And Objects\obj\Debug\netcoreapp2.0\Strings And Objects.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Strings And Objects\obj\Debug\netcoreapp2.0\Strings And Objects.pdb

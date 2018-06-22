@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Back in 30 Minutes\bin\Debug\netcoreapp2.0\Back in 30 Minutes.deps.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Back in 30 Minutes\bin\Debug\netcoreapp2.0\Back in 30 Minutes.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Back in 30 Minutes\bin\Debug\netcoreapp2.0\Back in 30 Minutes.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Back in 30 Minutes\bin\Debug\netcoreapp2.0\Back in 30 Minutes.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Back in 30 Minutes\bin\Debug\netcoreapp2.0\Back in 30 Minutes.pdb
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Back in 30 Minutes\obj\Debug\netcoreapp2.0\Back in 30 Minutes.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Back in 30 Minutes\obj\Debug\netcoreapp2.0\Back in 30 Minutes.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Back in 30 Minutes\obj\Debug\netcoreapp2.0\Back in 30 Minutes.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Back in 30 Minutes\obj\Debug\netcoreapp2.0\Back in 30 Minutes.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Back in 30 Minutes\obj\Debug\netcoreapp2.0\Back in 30 Minutes.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Back in 30 Minutes\obj\Debug\netcoreapp2.0\Back in 30 Minutes.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Karate Strings\bin\Debug\netcoreapp2.0\Karate Strings.deps.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Karate Strings\bin\Debug\netcoreapp2.0\Karate Strings.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Karate Strings\bin\Debug\netcoreapp2.0\Karate Strings.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Karate Strings\bin\Debug\netcoreapp2.0\Karate Strings.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Karate Strings\bin\Debug\netcoreapp2.0\Karate Strings.pdb
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Karate Strings\obj\Debug\netcoreapp2.0\Karate Strings.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Karate Strings\obj\Debug\netcoreapp2.0\Karate Strings.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Karate Strings\obj\Debug\netcoreapp2.0\Karate Strings.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Karate Strings\obj\Debug\netcoreapp2.0\Karate Strings.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Karate Strings\obj\Debug\netcoreapp2.0\Karate Strings.pdb
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Karate Strings\obj\Debug\netcoreapp2.0\Karate Strings.csprojResolveAssemblyReference.cache

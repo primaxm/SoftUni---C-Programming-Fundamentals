@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Longer Line\bin\Debug\netcoreapp2.0\Longer Line.deps.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Longer Line\bin\Debug\netcoreapp2.0\Longer Line.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Longer Line\bin\Debug\netcoreapp2.0\Longer Line.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Longer Line\bin\Debug\netcoreapp2.0\Longer Line.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Longer Line\bin\Debug\netcoreapp2.0\Longer Line.pdb
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Longer Line\obj\Debug\netcoreapp2.0\Longer Line.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Longer Line\obj\Debug\netcoreapp2.0\Longer Line.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Longer Line\obj\Debug\netcoreapp2.0\Longer Line.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Longer Line\obj\Debug\netcoreapp2.0\Longer Line.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Longer Line\obj\Debug\netcoreapp2.0\Longer Line.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Longer Line\obj\Debug\netcoreapp2.0\Longer Line.pdb

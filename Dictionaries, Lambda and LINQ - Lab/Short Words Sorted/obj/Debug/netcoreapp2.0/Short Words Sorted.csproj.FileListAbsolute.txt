@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Short Words Sorted\bin\Debug\netcoreapp2.0\Short Words Sorted.deps.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Short Words Sorted\bin\Debug\netcoreapp2.0\Short Words Sorted.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Short Words Sorted\bin\Debug\netcoreapp2.0\Short Words Sorted.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Short Words Sorted\bin\Debug\netcoreapp2.0\Short Words Sorted.dll
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Short Words Sorted\bin\Debug\netcoreapp2.0\Short Words Sorted.pdb
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Short Words Sorted\obj\Debug\netcoreapp2.0\Short Words Sorted.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Short Words Sorted\obj\Debug\netcoreapp2.0\Short Words Sorted.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Short Words Sorted\obj\Debug\netcoreapp2.0\Short Words Sorted.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Short Words Sorted\obj\Debug\netcoreapp2.0\Short Words Sorted.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Short Words Sorted\obj\Debug\netcoreapp2.0\Short Words Sorted.dll
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Short Words Sorted\obj\Debug\netcoreapp2.0\Short Words Sorted.pdb

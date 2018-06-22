@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Neighbour Wars\bin\Debug\netcoreapp2.0\Neighbour Wars.deps.json
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Neighbour Wars\bin\Debug\netcoreapp2.0\Neighbour Wars.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Neighbour Wars\bin\Debug\netcoreapp2.0\Neighbour Wars.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Neighbour Wars\bin\Debug\netcoreapp2.0\Neighbour Wars.dll
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Neighbour Wars\bin\Debug\netcoreapp2.0\Neighbour Wars.pdb
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Neighbour Wars\obj\Debug\netcoreapp2.0\Neighbour Wars.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Neighbour Wars\obj\Debug\netcoreapp2.0\Neighbour Wars.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Neighbour Wars\obj\Debug\netcoreapp2.0\Neighbour Wars.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Neighbour Wars\obj\Debug\netcoreapp2.0\Neighbour Wars.dll
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Neighbour Wars\obj\Debug\netcoreapp2.0\Neighbour Wars.pdb

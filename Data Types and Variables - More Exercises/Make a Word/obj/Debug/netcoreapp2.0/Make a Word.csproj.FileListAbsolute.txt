@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Make a Word\bin\Debug\netcoreapp2.0\Make a Word.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Make a Word\bin\Debug\netcoreapp2.0\Make a Word.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Make a Word\bin\Debug\netcoreapp2.0\Make a Word.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Make a Word\bin\Debug\netcoreapp2.0\Make a Word.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Make a Word\bin\Debug\netcoreapp2.0\Make a Word.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Make a Word\obj\Debug\netcoreapp2.0\Make a Word.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Make a Word\obj\Debug\netcoreapp2.0\Make a Word.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Make a Word\obj\Debug\netcoreapp2.0\Make a Word.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Make a Word\obj\Debug\netcoreapp2.0\Make a Word.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Make a Word\obj\Debug\netcoreapp2.0\Make a Word.pdb

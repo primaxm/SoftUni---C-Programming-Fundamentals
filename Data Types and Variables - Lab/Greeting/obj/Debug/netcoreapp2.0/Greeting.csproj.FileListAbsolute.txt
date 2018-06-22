@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Greeting\bin\Debug\netcoreapp2.0\Greeting.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Greeting\bin\Debug\netcoreapp2.0\Greeting.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Greeting\bin\Debug\netcoreapp2.0\Greeting.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Greeting\bin\Debug\netcoreapp2.0\Greeting.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Greeting\bin\Debug\netcoreapp2.0\Greeting.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Greeting\obj\Debug\netcoreapp2.0\Greeting.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Greeting\obj\Debug\netcoreapp2.0\Greeting.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Greeting\obj\Debug\netcoreapp2.0\Greeting.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Greeting\obj\Debug\netcoreapp2.0\Greeting.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Greeting\obj\Debug\netcoreapp2.0\Greeting.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Greeting\obj\Debug\netcoreapp2.0\Greeting.pdb

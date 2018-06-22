@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\A Miner Task\bin\Debug\netcoreapp2.0\A Miner Task.deps.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\A Miner Task\bin\Debug\netcoreapp2.0\A Miner Task.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\A Miner Task\bin\Debug\netcoreapp2.0\A Miner Task.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\A Miner Task\bin\Debug\netcoreapp2.0\A Miner Task.dll
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\A Miner Task\bin\Debug\netcoreapp2.0\A Miner Task.pdb
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\A Miner Task\obj\Debug\netcoreapp2.0\A Miner Task.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\A Miner Task\obj\Debug\netcoreapp2.0\A Miner Task.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\A Miner Task\obj\Debug\netcoreapp2.0\A Miner Task.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\A Miner Task\obj\Debug\netcoreapp2.0\A Miner Task.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\A Miner Task\obj\Debug\netcoreapp2.0\A Miner Task.dll
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\A Miner Task\obj\Debug\netcoreapp2.0\A Miner Task.pdb

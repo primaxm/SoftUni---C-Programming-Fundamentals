@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Valid Usernames\bin\Debug\netcoreapp2.0\Valid Usernames.deps.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Valid Usernames\bin\Debug\netcoreapp2.0\Valid Usernames.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Valid Usernames\bin\Debug\netcoreapp2.0\Valid Usernames.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Valid Usernames\bin\Debug\netcoreapp2.0\Valid Usernames.dll
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Valid Usernames\bin\Debug\netcoreapp2.0\Valid Usernames.pdb
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Valid Usernames\obj\Debug\netcoreapp2.0\Valid Usernames.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Valid Usernames\obj\Debug\netcoreapp2.0\Valid Usernames.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Valid Usernames\obj\Debug\netcoreapp2.0\Valid Usernames.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Valid Usernames\obj\Debug\netcoreapp2.0\Valid Usernames.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Valid Usernames\obj\Debug\netcoreapp2.0\Valid Usernames.dll
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Valid Usernames\obj\Debug\netcoreapp2.0\Valid Usernames.pdb

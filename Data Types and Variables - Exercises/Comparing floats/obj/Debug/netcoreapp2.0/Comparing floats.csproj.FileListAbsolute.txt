@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Comparing floats\bin\Debug\netcoreapp2.0\Comparing floats.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Comparing floats\bin\Debug\netcoreapp2.0\Comparing floats.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Comparing floats\bin\Debug\netcoreapp2.0\Comparing floats.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Comparing floats\bin\Debug\netcoreapp2.0\Comparing floats.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Comparing floats\bin\Debug\netcoreapp2.0\Comparing floats.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Comparing floats\obj\Debug\netcoreapp2.0\Comparing floats.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Comparing floats\obj\Debug\netcoreapp2.0\Comparing floats.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Comparing floats\obj\Debug\netcoreapp2.0\Comparing floats.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Comparing floats\obj\Debug\netcoreapp2.0\Comparing floats.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Comparing floats\obj\Debug\netcoreapp2.0\Comparing floats.pdb

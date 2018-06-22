@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Min, Max, Sum, Average\bin\Debug\netcoreapp2.0\Min, Max, Sum, Average.deps.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Min, Max, Sum, Average\bin\Debug\netcoreapp2.0\Min, Max, Sum, Average.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Min, Max, Sum, Average\bin\Debug\netcoreapp2.0\Min, Max, Sum, Average.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Min, Max, Sum, Average\bin\Debug\netcoreapp2.0\Min, Max, Sum, Average.dll
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Min, Max, Sum, Average\bin\Debug\netcoreapp2.0\Min, Max, Sum, Average.pdb
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Min, Max, Sum, Average\obj\Debug\netcoreapp2.0\Min, Max, Sum, Average.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Min, Max, Sum, Average\obj\Debug\netcoreapp2.0\Min, Max, Sum, Average.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Min, Max, Sum, Average\obj\Debug\netcoreapp2.0\Min, Max, Sum, Average.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Min, Max, Sum, Average\obj\Debug\netcoreapp2.0\Min, Max, Sum, Average.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Min, Max, Sum, Average\obj\Debug\netcoreapp2.0\Min, Max, Sum, Average.dll
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Min, Max, Sum, Average\obj\Debug\netcoreapp2.0\Min, Max, Sum, Average.pdb

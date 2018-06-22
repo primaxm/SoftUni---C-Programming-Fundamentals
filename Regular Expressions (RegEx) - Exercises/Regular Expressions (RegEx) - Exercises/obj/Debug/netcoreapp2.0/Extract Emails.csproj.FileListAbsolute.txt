@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Regular Expressions (RegEx) - Exercises\bin\Debug\netcoreapp2.0\Extract Emails.deps.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Regular Expressions (RegEx) - Exercises\bin\Debug\netcoreapp2.0\Extract Emails.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Regular Expressions (RegEx) - Exercises\bin\Debug\netcoreapp2.0\Extract Emails.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Regular Expressions (RegEx) - Exercises\bin\Debug\netcoreapp2.0\Extract Emails.dll
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Regular Expressions (RegEx) - Exercises\bin\Debug\netcoreapp2.0\Extract Emails.pdb
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Regular Expressions (RegEx) - Exercises\obj\Debug\netcoreapp2.0\Extract Emails.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Regular Expressions (RegEx) - Exercises\obj\Debug\netcoreapp2.0\Extract Emails.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Regular Expressions (RegEx) - Exercises\obj\Debug\netcoreapp2.0\Extract Emails.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Regular Expressions (RegEx) - Exercises\obj\Debug\netcoreapp2.0\Extract Emails.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Regular Expressions (RegEx) - Exercises\obj\Debug\netcoreapp2.0\Extract Emails.dll
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Regular Expressions (RegEx) - Exercises\obj\Debug\netcoreapp2.0\Extract Emails.pdb

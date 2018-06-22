@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Printing Triangle\bin\Debug\netcoreapp2.0\Printing Triangle.deps.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Printing Triangle\bin\Debug\netcoreapp2.0\Printing Triangle.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Printing Triangle\bin\Debug\netcoreapp2.0\Printing Triangle.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Printing Triangle\bin\Debug\netcoreapp2.0\Printing Triangle.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Printing Triangle\bin\Debug\netcoreapp2.0\Printing Triangle.pdb
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Printing Triangle\obj\Debug\netcoreapp2.0\Printing Triangle.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Printing Triangle\obj\Debug\netcoreapp2.0\Printing Triangle.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Printing Triangle\obj\Debug\netcoreapp2.0\Printing Triangle.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Printing Triangle\obj\Debug\netcoreapp2.0\Printing Triangle.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Printing Triangle\obj\Debug\netcoreapp2.0\Printing Triangle.pdb

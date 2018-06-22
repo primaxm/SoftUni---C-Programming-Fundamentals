@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Safe Manipulation\bin\Debug\netcoreapp2.0\Safe Manipulation.deps.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Safe Manipulation\bin\Debug\netcoreapp2.0\Safe Manipulation.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Safe Manipulation\bin\Debug\netcoreapp2.0\Safe Manipulation.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Safe Manipulation\bin\Debug\netcoreapp2.0\Safe Manipulation.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Safe Manipulation\bin\Debug\netcoreapp2.0\Safe Manipulation.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Safe Manipulation\obj\Debug\netcoreapp2.0\Safe Manipulation.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Safe Manipulation\obj\Debug\netcoreapp2.0\Safe Manipulation.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Safe Manipulation\obj\Debug\netcoreapp2.0\Safe Manipulation.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Safe Manipulation\obj\Debug\netcoreapp2.0\Safe Manipulation.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Safe Manipulation\obj\Debug\netcoreapp2.0\Safe Manipulation.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Safe Manipulation\obj\Debug\netcoreapp2.0\Safe Manipulation.csprojResolveAssemblyReference.cache

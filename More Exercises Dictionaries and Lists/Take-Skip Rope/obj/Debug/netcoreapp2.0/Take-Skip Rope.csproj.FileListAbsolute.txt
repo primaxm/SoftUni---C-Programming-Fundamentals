@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Take-Skip Rope\bin\Debug\netcoreapp2.0\Take-Skip Rope.deps.json
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Take-Skip Rope\bin\Debug\netcoreapp2.0\Take-Skip Rope.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Take-Skip Rope\bin\Debug\netcoreapp2.0\Take-Skip Rope.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Take-Skip Rope\bin\Debug\netcoreapp2.0\Take-Skip Rope.dll
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Take-Skip Rope\bin\Debug\netcoreapp2.0\Take-Skip Rope.pdb
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Take-Skip Rope\obj\Debug\netcoreapp2.0\Take-Skip Rope.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Take-Skip Rope\obj\Debug\netcoreapp2.0\Take-Skip Rope.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Take-Skip Rope\obj\Debug\netcoreapp2.0\Take-Skip Rope.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Take-Skip Rope\obj\Debug\netcoreapp2.0\Take-Skip Rope.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Take-Skip Rope\obj\Debug\netcoreapp2.0\Take-Skip Rope.dll
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Take-Skip Rope\obj\Debug\netcoreapp2.0\Take-Skip Rope.pdb

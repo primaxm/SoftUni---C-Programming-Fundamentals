@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Cake Ingredients\obj\Debug\netcoreapp2.0\Cake Ingredients.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Cake Ingredients\obj\Debug\netcoreapp2.0\Cake Ingredients.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Cake Ingredients\obj\Debug\netcoreapp2.0\Cake Ingredients.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Cake Ingredients\bin\Debug\netcoreapp2.0\Cake Ingredients.deps.json
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Cake Ingredients\bin\Debug\netcoreapp2.0\Cake Ingredients.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Cake Ingredients\bin\Debug\netcoreapp2.0\Cake Ingredients.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Cake Ingredients\bin\Debug\netcoreapp2.0\Cake Ingredients.dll
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Cake Ingredients\bin\Debug\netcoreapp2.0\Cake Ingredients.pdb
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Cake Ingredients\obj\Debug\netcoreapp2.0\Cake Ingredients.dll
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Cake Ingredients\obj\Debug\netcoreapp2.0\Cake Ingredients.pdb

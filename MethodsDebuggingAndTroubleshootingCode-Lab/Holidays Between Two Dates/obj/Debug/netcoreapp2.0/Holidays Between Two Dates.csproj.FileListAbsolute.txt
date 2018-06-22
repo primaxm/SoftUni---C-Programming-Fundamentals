@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Holidays Between Two Dates\bin\Debug\netcoreapp2.0\Holidays Between Two Dates.deps.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Holidays Between Two Dates\bin\Debug\netcoreapp2.0\Holidays Between Two Dates.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Holidays Between Two Dates\bin\Debug\netcoreapp2.0\Holidays Between Two Dates.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Holidays Between Two Dates\bin\Debug\netcoreapp2.0\Holidays Between Two Dates.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Holidays Between Two Dates\bin\Debug\netcoreapp2.0\Holidays Between Two Dates.pdb
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Holidays Between Two Dates\obj\Debug\netcoreapp2.0\Holidays Between Two Dates.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Holidays Between Two Dates\obj\Debug\netcoreapp2.0\Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Holidays Between Two Dates\obj\Debug\netcoreapp2.0\Holidays Between Two Dates.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Holidays Between Two Dates\obj\Debug\netcoreapp2.0\Holidays Between Two Dates.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Holidays Between Two Dates\obj\Debug\netcoreapp2.0\Holidays Between Two Dates.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Holidays Between Two Dates\obj\Debug\netcoreapp2.0\Holidays Between Two Dates.pdb

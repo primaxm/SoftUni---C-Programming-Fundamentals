@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Multiplication Table\bin\Debug\netcoreapp2.0\Multiplication Table.deps.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Multiplication Table\bin\Debug\netcoreapp2.0\Multiplication Table.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Multiplication Table\bin\Debug\netcoreapp2.0\Multiplication Table.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Multiplication Table\bin\Debug\netcoreapp2.0\Multiplication Table.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Multiplication Table\bin\Debug\netcoreapp2.0\Multiplication Table.pdb
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Multiplication Table\obj\Debug\netcoreapp2.0\Multiplication Table.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Multiplication Table\obj\Debug\netcoreapp2.0\Multiplication Table.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Multiplication Table\obj\Debug\netcoreapp2.0\Multiplication Table.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Multiplication Table\obj\Debug\netcoreapp2.0\Multiplication Table.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Multiplication Table\obj\Debug\netcoreapp2.0\Multiplication Table.pdb

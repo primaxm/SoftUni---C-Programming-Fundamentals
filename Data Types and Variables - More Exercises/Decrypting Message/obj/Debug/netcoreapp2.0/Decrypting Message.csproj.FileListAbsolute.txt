@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Decrypting Message\obj\Debug\netcoreapp2.0\Decrypting Message.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Decrypting Message\obj\Debug\netcoreapp2.0\Decrypting Message.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Decrypting Message\obj\Debug\netcoreapp2.0\Decrypting Message.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Decrypting Message\obj\Debug\netcoreapp2.0\Decrypting Message.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Decrypting Message\bin\Debug\netcoreapp2.0\Decrypting Message.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Decrypting Message\bin\Debug\netcoreapp2.0\Decrypting Message.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Decrypting Message\bin\Debug\netcoreapp2.0\Decrypting Message.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Decrypting Message\bin\Debug\netcoreapp2.0\Decrypting Message.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Decrypting Message\bin\Debug\netcoreapp2.0\Decrypting Message.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Decrypting Message\obj\Debug\netcoreapp2.0\Decrypting Message.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Decrypting Message\obj\Debug\netcoreapp2.0\Decrypting Message.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Unicode Characters\bin\Debug\netcoreapp2.0\Unicode Characters.deps.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Unicode Characters\bin\Debug\netcoreapp2.0\Unicode Characters.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Unicode Characters\bin\Debug\netcoreapp2.0\Unicode Characters.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Unicode Characters\bin\Debug\netcoreapp2.0\Unicode Characters.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Unicode Characters\bin\Debug\netcoreapp2.0\Unicode Characters.pdb
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Unicode Characters\obj\Debug\netcoreapp2.0\Unicode Characters.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Unicode Characters\obj\Debug\netcoreapp2.0\Unicode Characters.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Unicode Characters\obj\Debug\netcoreapp2.0\Unicode Characters.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Unicode Characters\obj\Debug\netcoreapp2.0\Unicode Characters.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Unicode Characters\obj\Debug\netcoreapp2.0\Unicode Characters.pdb

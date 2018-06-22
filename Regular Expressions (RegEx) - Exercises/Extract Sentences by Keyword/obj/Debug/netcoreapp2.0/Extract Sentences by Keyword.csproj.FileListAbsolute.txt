@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Extract Sentences by Keyword\bin\Debug\netcoreapp2.0\Extract Sentences by Keyword.deps.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Extract Sentences by Keyword\bin\Debug\netcoreapp2.0\Extract Sentences by Keyword.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Extract Sentences by Keyword\bin\Debug\netcoreapp2.0\Extract Sentences by Keyword.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Extract Sentences by Keyword\bin\Debug\netcoreapp2.0\Extract Sentences by Keyword.dll
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Extract Sentences by Keyword\bin\Debug\netcoreapp2.0\Extract Sentences by Keyword.pdb
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Extract Sentences by Keyword\obj\Debug\netcoreapp2.0\Extract Sentences by Keyword.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Extract Sentences by Keyword\obj\Debug\netcoreapp2.0\Extract Sentences by Keyword.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Extract Sentences by Keyword\obj\Debug\netcoreapp2.0\Extract Sentences by Keyword.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Extract Sentences by Keyword\obj\Debug\netcoreapp2.0\Extract Sentences by Keyword.dll
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Extract Sentences by Keyword\obj\Debug\netcoreapp2.0\Extract Sentences by Keyword.pdb
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Extract Sentences by Keyword\obj\Debug\netcoreapp2.0\Extract Sentences by Keyword.csprojResolveAssemblyReference.cache

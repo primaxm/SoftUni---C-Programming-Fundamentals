@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Mines\bin\Debug\netcoreapp2.0\Mines.deps.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Mines\bin\Debug\netcoreapp2.0\Mines.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Mines\bin\Debug\netcoreapp2.0\Mines.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Mines\bin\Debug\netcoreapp2.0\Mines.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Mines\bin\Debug\netcoreapp2.0\Mines.pdb
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Mines\obj\Debug\netcoreapp2.0\Mines.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Mines\obj\Debug\netcoreapp2.0\Mines.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Mines\obj\Debug\netcoreapp2.0\Mines.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Mines\obj\Debug\netcoreapp2.0\Mines.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Mines\obj\Debug\netcoreapp2.0\Mines.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Mines\obj\Debug\netcoreapp2.0\Mines.pdb

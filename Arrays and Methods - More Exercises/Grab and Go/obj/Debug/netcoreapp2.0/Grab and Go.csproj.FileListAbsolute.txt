@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Grab and Go\bin\Debug\netcoreapp2.0\Grab and Go.deps.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Grab and Go\bin\Debug\netcoreapp2.0\Grab and Go.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Grab and Go\bin\Debug\netcoreapp2.0\Grab and Go.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Grab and Go\bin\Debug\netcoreapp2.0\Grab and Go.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Grab and Go\bin\Debug\netcoreapp2.0\Grab and Go.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Grab and Go\obj\Debug\netcoreapp2.0\Grab and Go.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Grab and Go\obj\Debug\netcoreapp2.0\Grab and Go.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Grab and Go\obj\Debug\netcoreapp2.0\Grab and Go.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Grab and Go\obj\Debug\netcoreapp2.0\Grab and Go.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Grab and Go\obj\Debug\netcoreapp2.0\Grab and Go.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Grab and Go\obj\Debug\netcoreapp2.0\Grab and Go.pdb

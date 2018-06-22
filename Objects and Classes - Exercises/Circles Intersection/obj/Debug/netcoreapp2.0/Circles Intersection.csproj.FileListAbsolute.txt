@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Circles Intersection\bin\Debug\netcoreapp2.0\Circles Intersection.deps.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Circles Intersection\bin\Debug\netcoreapp2.0\Circles Intersection.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Circles Intersection\bin\Debug\netcoreapp2.0\Circles Intersection.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Circles Intersection\bin\Debug\netcoreapp2.0\Circles Intersection.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Circles Intersection\bin\Debug\netcoreapp2.0\Circles Intersection.pdb
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Circles Intersection\obj\Debug\netcoreapp2.0\Circles Intersection.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Circles Intersection\obj\Debug\netcoreapp2.0\Circles Intersection.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Circles Intersection\obj\Debug\netcoreapp2.0\Circles Intersection.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Circles Intersection\obj\Debug\netcoreapp2.0\Circles Intersection.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Circles Intersection\obj\Debug\netcoreapp2.0\Circles Intersection.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Circles Intersection\obj\Debug\netcoreapp2.0\Circles Intersection.pdb

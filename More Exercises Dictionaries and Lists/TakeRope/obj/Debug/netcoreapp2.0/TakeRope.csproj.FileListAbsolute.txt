@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\TakeRope\bin\Debug\netcoreapp2.0\TakeRope.deps.json
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\TakeRope\bin\Debug\netcoreapp2.0\TakeRope.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\TakeRope\bin\Debug\netcoreapp2.0\TakeRope.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\TakeRope\bin\Debug\netcoreapp2.0\TakeRope.dll
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\TakeRope\bin\Debug\netcoreapp2.0\TakeRope.pdb
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\TakeRope\obj\Debug\netcoreapp2.0\TakeRope.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\TakeRope\obj\Debug\netcoreapp2.0\TakeRope.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\TakeRope\obj\Debug\netcoreapp2.0\TakeRope.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\TakeRope\obj\Debug\netcoreapp2.0\TakeRope.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\TakeRope\obj\Debug\netcoreapp2.0\TakeRope.dll
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\TakeRope\obj\Debug\netcoreapp2.0\TakeRope.pdb

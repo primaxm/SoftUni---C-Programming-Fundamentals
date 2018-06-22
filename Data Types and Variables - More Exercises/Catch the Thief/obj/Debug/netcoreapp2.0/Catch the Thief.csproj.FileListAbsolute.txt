@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Catch the Thief\bin\Debug\netcoreapp2.0\Catch the Thief.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Catch the Thief\bin\Debug\netcoreapp2.0\Catch the Thief.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Catch the Thief\bin\Debug\netcoreapp2.0\Catch the Thief.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Catch the Thief\bin\Debug\netcoreapp2.0\Catch the Thief.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Catch the Thief\bin\Debug\netcoreapp2.0\Catch the Thief.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Catch the Thief\obj\Debug\netcoreapp2.0\Catch the Thief.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Catch the Thief\obj\Debug\netcoreapp2.0\Catch the Thief.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Catch the Thief\obj\Debug\netcoreapp2.0\Catch the Thief.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Catch the Thief\obj\Debug\netcoreapp2.0\Catch the Thief.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Catch the Thief\obj\Debug\netcoreapp2.0\Catch the Thief.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Catch the Thief\obj\Debug\netcoreapp2.0\Catch the Thief.pdb

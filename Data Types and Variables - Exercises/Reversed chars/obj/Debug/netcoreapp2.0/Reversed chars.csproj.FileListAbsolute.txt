@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Reversed chars\bin\Debug\netcoreapp2.0\Reversed chars.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Reversed chars\bin\Debug\netcoreapp2.0\Reversed chars.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Reversed chars\bin\Debug\netcoreapp2.0\Reversed chars.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Reversed chars\bin\Debug\netcoreapp2.0\Reversed chars.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Reversed chars\bin\Debug\netcoreapp2.0\Reversed chars.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Reversed chars\obj\Debug\netcoreapp2.0\Reversed chars.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Reversed chars\obj\Debug\netcoreapp2.0\Reversed chars.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Reversed chars\obj\Debug\netcoreapp2.0\Reversed chars.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Reversed chars\obj\Debug\netcoreapp2.0\Reversed chars.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Reversed chars\obj\Debug\netcoreapp2.0\Reversed chars.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Data Types and Variables - Exercises\bin\Debug\netcoreapp2.0\Data Types and Variables - Exercises.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Data Types and Variables - Exercises\bin\Debug\netcoreapp2.0\Data Types and Variables - Exercises.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Data Types and Variables - Exercises\bin\Debug\netcoreapp2.0\Data Types and Variables - Exercises.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Data Types and Variables - Exercises\bin\Debug\netcoreapp2.0\Data Types and Variables - Exercises.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Data Types and Variables - Exercises\bin\Debug\netcoreapp2.0\Data Types and Variables - Exercises.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Data Types and Variables - Exercises\obj\Debug\netcoreapp2.0\Data Types and Variables - Exercises.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Data Types and Variables - Exercises\obj\Debug\netcoreapp2.0\Data Types and Variables - Exercises.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Data Types and Variables - Exercises\obj\Debug\netcoreapp2.0\Data Types and Variables - Exercises.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Data Types and Variables - Exercises\obj\Debug\netcoreapp2.0\Data Types and Variables - Exercises.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Data Types and Variables - Exercises\obj\Debug\netcoreapp2.0\Data Types and Variables - Exercises.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Data Types and Variables - Exercises\obj\Debug\netcoreapp2.0\Data Types and Variables - Exercises.pdb

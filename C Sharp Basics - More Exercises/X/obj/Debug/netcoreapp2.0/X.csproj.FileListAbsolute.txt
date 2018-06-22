@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\X\bin\Debug\netcoreapp2.0\X.deps.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\X\bin\Debug\netcoreapp2.0\X.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\X\bin\Debug\netcoreapp2.0\X.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\X\bin\Debug\netcoreapp2.0\X.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\X\bin\Debug\netcoreapp2.0\X.pdb
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\X\obj\Debug\netcoreapp2.0\X.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\X\obj\Debug\netcoreapp2.0\X.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\X\obj\Debug\netcoreapp2.0\X.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\X\obj\Debug\netcoreapp2.0\X.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\X\obj\Debug\netcoreapp2.0\X.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\X\obj\Debug\netcoreapp2.0\X.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Tourist Information\bin\Debug\netcoreapp2.0\Tourist Information.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Tourist Information\bin\Debug\netcoreapp2.0\Tourist Information.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Tourist Information\bin\Debug\netcoreapp2.0\Tourist Information.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Tourist Information\bin\Debug\netcoreapp2.0\Tourist Information.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Tourist Information\bin\Debug\netcoreapp2.0\Tourist Information.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Tourist Information\obj\Debug\netcoreapp2.0\Tourist Information.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Tourist Information\obj\Debug\netcoreapp2.0\Tourist Information.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Tourist Information\obj\Debug\netcoreapp2.0\Tourist Information.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Tourist Information\obj\Debug\netcoreapp2.0\Tourist Information.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Tourist Information\obj\Debug\netcoreapp2.0\Tourist Information.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Tourist Information\obj\Debug\netcoreapp2.0\Tourist Information.pdb

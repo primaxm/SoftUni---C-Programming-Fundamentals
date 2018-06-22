@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Programming Fundamentals Exam 05 January 2018\bin\Debug\netcoreapp2.0\Snowballs.deps.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Programming Fundamentals Exam 05 January 2018\bin\Debug\netcoreapp2.0\Snowballs.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Programming Fundamentals Exam 05 January 2018\bin\Debug\netcoreapp2.0\Snowballs.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Programming Fundamentals Exam 05 January 2018\bin\Debug\netcoreapp2.0\Snowballs.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Programming Fundamentals Exam 05 January 2018\bin\Debug\netcoreapp2.0\Snowballs.pdb
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Programming Fundamentals Exam 05 January 2018\obj\Debug\netcoreapp2.0\Snowballs.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Programming Fundamentals Exam 05 January 2018\obj\Debug\netcoreapp2.0\Snowballs.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Programming Fundamentals Exam 05 January 2018\obj\Debug\netcoreapp2.0\Snowballs.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Programming Fundamentals Exam 05 January 2018\obj\Debug\netcoreapp2.0\Snowballs.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Programming Fundamentals Exam 05 January 2018\obj\Debug\netcoreapp2.0\Snowballs.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Programming Fundamentals Exam 05 January 2018\obj\Debug\netcoreapp2.0\Snowballs.pdb

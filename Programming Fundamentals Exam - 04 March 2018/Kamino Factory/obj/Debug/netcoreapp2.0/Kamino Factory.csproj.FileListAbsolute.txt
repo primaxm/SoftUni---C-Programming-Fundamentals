@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 04 March 2018\Kamino Factory\bin\Debug\netcoreapp2.0\Kamino Factory.deps.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 04 March 2018\Kamino Factory\bin\Debug\netcoreapp2.0\Kamino Factory.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 04 March 2018\Kamino Factory\bin\Debug\netcoreapp2.0\Kamino Factory.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 04 March 2018\Kamino Factory\bin\Debug\netcoreapp2.0\Kamino Factory.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 04 March 2018\Kamino Factory\bin\Debug\netcoreapp2.0\Kamino Factory.pdb
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 04 March 2018\Kamino Factory\obj\Debug\netcoreapp2.0\Kamino Factory.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 04 March 2018\Kamino Factory\obj\Debug\netcoreapp2.0\Kamino Factory.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 04 March 2018\Kamino Factory\obj\Debug\netcoreapp2.0\Kamino Factory.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 04 March 2018\Kamino Factory\obj\Debug\netcoreapp2.0\Kamino Factory.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 04 March 2018\Kamino Factory\obj\Debug\netcoreapp2.0\Kamino Factory.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 04 March 2018\Kamino Factory\obj\Debug\netcoreapp2.0\Kamino Factory.pdb

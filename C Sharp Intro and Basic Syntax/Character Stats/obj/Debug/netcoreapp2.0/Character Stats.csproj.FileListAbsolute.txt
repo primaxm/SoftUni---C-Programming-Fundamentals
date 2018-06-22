@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Character Stats\bin\Debug\netcoreapp2.0\Character Stats.deps.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Character Stats\bin\Debug\netcoreapp2.0\Character Stats.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Character Stats\bin\Debug\netcoreapp2.0\Character Stats.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Character Stats\bin\Debug\netcoreapp2.0\Character Stats.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Character Stats\bin\Debug\netcoreapp2.0\Character Stats.pdb
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Character Stats\obj\Debug\netcoreapp2.0\Character Stats.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Character Stats\obj\Debug\netcoreapp2.0\Character Stats.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Character Stats\obj\Debug\netcoreapp2.0\Character Stats.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Character Stats\obj\Debug\netcoreapp2.0\Character Stats.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Character Stats\obj\Debug\netcoreapp2.0\Character Stats.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Character Stats\obj\Debug\netcoreapp2.0\Character Stats.pdb

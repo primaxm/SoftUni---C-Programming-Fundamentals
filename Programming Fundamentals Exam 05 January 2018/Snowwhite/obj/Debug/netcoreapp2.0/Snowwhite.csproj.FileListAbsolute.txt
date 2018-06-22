@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Snowwhite\bin\Debug\netcoreapp2.0\Snowwhite.deps.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Snowwhite\bin\Debug\netcoreapp2.0\Snowwhite.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Snowwhite\bin\Debug\netcoreapp2.0\Snowwhite.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Snowwhite\bin\Debug\netcoreapp2.0\Snowwhite.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Snowwhite\bin\Debug\netcoreapp2.0\Snowwhite.pdb
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Snowwhite\obj\Debug\netcoreapp2.0\Snowwhite.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Snowwhite\obj\Debug\netcoreapp2.0\Snowwhite.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Snowwhite\obj\Debug\netcoreapp2.0\Snowwhite.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Snowwhite\obj\Debug\netcoreapp2.0\Snowwhite.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Snowwhite\obj\Debug\netcoreapp2.0\Snowwhite.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Snowwhite\obj\Debug\netcoreapp2.0\Snowwhite.pdb

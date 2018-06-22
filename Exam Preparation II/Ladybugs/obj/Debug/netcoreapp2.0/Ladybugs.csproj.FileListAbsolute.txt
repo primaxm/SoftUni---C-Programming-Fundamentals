@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Ladybugs\bin\Debug\netcoreapp2.0\Ladybugs.deps.json
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Ladybugs\bin\Debug\netcoreapp2.0\Ladybugs.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Ladybugs\bin\Debug\netcoreapp2.0\Ladybugs.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Ladybugs\bin\Debug\netcoreapp2.0\Ladybugs.dll
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Ladybugs\bin\Debug\netcoreapp2.0\Ladybugs.pdb
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Ladybugs\obj\Debug\netcoreapp2.0\Ladybugs.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Ladybugs\obj\Debug\netcoreapp2.0\Ladybugs.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Ladybugs\obj\Debug\netcoreapp2.0\Ladybugs.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Ladybugs\obj\Debug\netcoreapp2.0\Ladybugs.dll
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Ladybugs\obj\Debug\netcoreapp2.0\Ladybugs.pdb
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Ladybugs\obj\Debug\netcoreapp2.0\Ladybugs.csprojResolveAssemblyReference.cache

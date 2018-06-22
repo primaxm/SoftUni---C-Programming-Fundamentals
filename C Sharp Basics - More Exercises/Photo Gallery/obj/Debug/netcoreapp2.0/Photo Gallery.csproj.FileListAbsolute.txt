@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Photo Gallery\obj\Debug\netcoreapp2.0\Photo Gallery.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Photo Gallery\obj\Debug\netcoreapp2.0\Photo Gallery.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Photo Gallery\obj\Debug\netcoreapp2.0\Photo Gallery.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Photo Gallery\obj\Debug\netcoreapp2.0\Photo Gallery.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Photo Gallery\bin\Debug\netcoreapp2.0\Photo Gallery.deps.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Photo Gallery\bin\Debug\netcoreapp2.0\Photo Gallery.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Photo Gallery\bin\Debug\netcoreapp2.0\Photo Gallery.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Photo Gallery\bin\Debug\netcoreapp2.0\Photo Gallery.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Photo Gallery\bin\Debug\netcoreapp2.0\Photo Gallery.pdb
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Photo Gallery\obj\Debug\netcoreapp2.0\Photo Gallery.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Photo Gallery\obj\Debug\netcoreapp2.0\Photo Gallery.pdb

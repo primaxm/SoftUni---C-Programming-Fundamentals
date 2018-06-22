@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Practice Floating Points\bin\Debug\netcoreapp2.0\Practice Floating Points.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Practice Floating Points\bin\Debug\netcoreapp2.0\Practice Floating Points.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Practice Floating Points\bin\Debug\netcoreapp2.0\Practice Floating Points.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Practice Floating Points\bin\Debug\netcoreapp2.0\Practice Floating Points.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Practice Floating Points\bin\Debug\netcoreapp2.0\Practice Floating Points.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Practice Floating Points\obj\Debug\netcoreapp2.0\Practice Floating Points.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Practice Floating Points\obj\Debug\netcoreapp2.0\Practice Floating Points.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Practice Floating Points\obj\Debug\netcoreapp2.0\Practice Floating Points.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Practice Floating Points\obj\Debug\netcoreapp2.0\Practice Floating Points.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Practice Floating Points\obj\Debug\netcoreapp2.0\Practice Floating Points.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Practice Floating Points\obj\Debug\netcoreapp2.0\Practice Floating Points.pdb

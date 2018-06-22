@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Rectangle Position\obj\Debug\netcoreapp2.0\Rectangle Position.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Rectangle Position\obj\Debug\netcoreapp2.0\Rectangle Position.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Rectangle Position\obj\Debug\netcoreapp2.0\Rectangle Position.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Rectangle Position\obj\Debug\netcoreapp2.0\Rectangle Position.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Rectangle Position\bin\Debug\netcoreapp2.0\Rectangle Position.deps.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Rectangle Position\bin\Debug\netcoreapp2.0\Rectangle Position.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Rectangle Position\bin\Debug\netcoreapp2.0\Rectangle Position.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Rectangle Position\bin\Debug\netcoreapp2.0\Rectangle Position.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Rectangle Position\bin\Debug\netcoreapp2.0\Rectangle Position.pdb
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Rectangle Position\obj\Debug\netcoreapp2.0\Rectangle Position.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Rectangle Position\obj\Debug\netcoreapp2.0\Rectangle Position.pdb

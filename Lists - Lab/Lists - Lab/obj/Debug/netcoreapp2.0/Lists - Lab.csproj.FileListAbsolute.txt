@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Lists - Lab\Lists - Lab\bin\Debug\netcoreapp2.0\Lists - Lab.deps.json
+D:\SoftUni\C# Programming Fundamentals\Lists - Lab\Lists - Lab\bin\Debug\netcoreapp2.0\Lists - Lab.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Lists - Lab\Lists - Lab\bin\Debug\netcoreapp2.0\Lists - Lab.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Lists - Lab\Lists - Lab\bin\Debug\netcoreapp2.0\Lists - Lab.dll
+D:\SoftUni\C# Programming Fundamentals\Lists - Lab\Lists - Lab\bin\Debug\netcoreapp2.0\Lists - Lab.pdb
+D:\SoftUni\C# Programming Fundamentals\Lists - Lab\Lists - Lab\obj\Debug\netcoreapp2.0\Lists - Lab.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Lists - Lab\Lists - Lab\obj\Debug\netcoreapp2.0\Lists - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Lists - Lab\Lists - Lab\obj\Debug\netcoreapp2.0\Lists - Lab.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Lists - Lab\Lists - Lab\obj\Debug\netcoreapp2.0\Lists - Lab.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Lists - Lab\Lists - Lab\obj\Debug\netcoreapp2.0\Lists - Lab.dll
+D:\SoftUni\C# Programming Fundamentals\Lists - Lab\Lists - Lab\obj\Debug\netcoreapp2.0\Lists - Lab.pdb

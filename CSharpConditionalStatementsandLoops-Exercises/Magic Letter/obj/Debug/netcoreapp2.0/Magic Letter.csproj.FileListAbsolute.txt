@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Magic Letter\bin\Debug\netcoreapp2.0\Magic Letter.deps.json
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Magic Letter\bin\Debug\netcoreapp2.0\Magic Letter.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Magic Letter\bin\Debug\netcoreapp2.0\Magic Letter.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Magic Letter\bin\Debug\netcoreapp2.0\Magic Letter.dll
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Magic Letter\bin\Debug\netcoreapp2.0\Magic Letter.pdb
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Magic Letter\obj\Debug\netcoreapp2.0\Magic Letter.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Magic Letter\obj\Debug\netcoreapp2.0\Magic Letter.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Magic Letter\obj\Debug\netcoreapp2.0\Magic Letter.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Magic Letter\obj\Debug\netcoreapp2.0\Magic Letter.dll
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Magic Letter\obj\Debug\netcoreapp2.0\Magic Letter.pdb

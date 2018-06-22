@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\MOBA Challenger\bin\Debug\netcoreapp2.0\MOBA Challenger.deps.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\MOBA Challenger\bin\Debug\netcoreapp2.0\MOBA Challenger.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\MOBA Challenger\bin\Debug\netcoreapp2.0\MOBA Challenger.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\MOBA Challenger\bin\Debug\netcoreapp2.0\MOBA Challenger.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\MOBA Challenger\bin\Debug\netcoreapp2.0\MOBA Challenger.pdb
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\MOBA Challenger\obj\Debug\netcoreapp2.0\MOBA Challenger.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\MOBA Challenger\obj\Debug\netcoreapp2.0\MOBA Challenger.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\MOBA Challenger\obj\Debug\netcoreapp2.0\MOBA Challenger.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\MOBA Challenger\obj\Debug\netcoreapp2.0\MOBA Challenger.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\MOBA Challenger\obj\Debug\netcoreapp2.0\MOBA Challenger.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\MOBA Challenger\obj\Debug\netcoreapp2.0\MOBA Challenger.pdb

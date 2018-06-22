@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Equal Sums\obj\Debug\netcoreapp2.0\Equal Sums.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Equal Sums\obj\Debug\netcoreapp2.0\Equal Sums.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Equal Sums\obj\Debug\netcoreapp2.0\Equal Sums.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Equal Sums\bin\Debug\netcoreapp2.0\Equal Sums.deps.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Equal Sums\bin\Debug\netcoreapp2.0\Equal Sums.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Equal Sums\bin\Debug\netcoreapp2.0\Equal Sums.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Equal Sums\bin\Debug\netcoreapp2.0\Equal Sums.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Equal Sums\bin\Debug\netcoreapp2.0\Equal Sums.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Equal Sums\obj\Debug\netcoreapp2.0\Equal Sums.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Equal Sums\obj\Debug\netcoreapp2.0\Equal Sums.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Dictionaries, Lambda and LINQ - Exercises\bin\Debug\netcoreapp2.0\Dictionaries, Lambda and LINQ - Exercises.deps.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Dictionaries, Lambda and LINQ - Exercises\bin\Debug\netcoreapp2.0\Dictionaries, Lambda and LINQ - Exercises.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Dictionaries, Lambda and LINQ - Exercises\bin\Debug\netcoreapp2.0\Dictionaries, Lambda and LINQ - Exercises.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Dictionaries, Lambda and LINQ - Exercises\bin\Debug\netcoreapp2.0\Dictionaries, Lambda and LINQ - Exercises.dll
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Dictionaries, Lambda and LINQ - Exercises\bin\Debug\netcoreapp2.0\Dictionaries, Lambda and LINQ - Exercises.pdb
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Dictionaries, Lambda and LINQ - Exercises\obj\Debug\netcoreapp2.0\Dictionaries, Lambda and LINQ - Exercises.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Dictionaries, Lambda and LINQ - Exercises\obj\Debug\netcoreapp2.0\Dictionaries, Lambda and LINQ - Exercises.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Dictionaries, Lambda and LINQ - Exercises\obj\Debug\netcoreapp2.0\Dictionaries, Lambda and LINQ - Exercises.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Dictionaries, Lambda and LINQ - Exercises\obj\Debug\netcoreapp2.0\Dictionaries, Lambda and LINQ - Exercises.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Dictionaries, Lambda and LINQ - Exercises\obj\Debug\netcoreapp2.0\Dictionaries, Lambda and LINQ - Exercises.dll
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Dictionaries, Lambda and LINQ - Exercises\obj\Debug\netcoreapp2.0\Dictionaries, Lambda and LINQ - Exercises.pdb

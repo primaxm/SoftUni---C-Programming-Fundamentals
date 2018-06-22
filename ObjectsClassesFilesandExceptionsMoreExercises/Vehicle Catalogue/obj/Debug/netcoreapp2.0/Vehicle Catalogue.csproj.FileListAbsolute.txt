@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\ObjectsClassesFilesandExceptionsMoreExercises\Vehicle Catalogue\bin\Debug\netcoreapp2.0\Vehicle Catalogue.deps.json
+D:\SoftUni\C# Programming Fundamentals\ObjectsClassesFilesandExceptionsMoreExercises\Vehicle Catalogue\bin\Debug\netcoreapp2.0\Vehicle Catalogue.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\ObjectsClassesFilesandExceptionsMoreExercises\Vehicle Catalogue\bin\Debug\netcoreapp2.0\Vehicle Catalogue.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\ObjectsClassesFilesandExceptionsMoreExercises\Vehicle Catalogue\bin\Debug\netcoreapp2.0\Vehicle Catalogue.dll
+D:\SoftUni\C# Programming Fundamentals\ObjectsClassesFilesandExceptionsMoreExercises\Vehicle Catalogue\bin\Debug\netcoreapp2.0\Vehicle Catalogue.pdb
+D:\SoftUni\C# Programming Fundamentals\ObjectsClassesFilesandExceptionsMoreExercises\Vehicle Catalogue\obj\Debug\netcoreapp2.0\Vehicle Catalogue.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\ObjectsClassesFilesandExceptionsMoreExercises\Vehicle Catalogue\obj\Debug\netcoreapp2.0\Vehicle Catalogue.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\ObjectsClassesFilesandExceptionsMoreExercises\Vehicle Catalogue\obj\Debug\netcoreapp2.0\Vehicle Catalogue.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\ObjectsClassesFilesandExceptionsMoreExercises\Vehicle Catalogue\obj\Debug\netcoreapp2.0\Vehicle Catalogue.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\ObjectsClassesFilesandExceptionsMoreExercises\Vehicle Catalogue\obj\Debug\netcoreapp2.0\Vehicle Catalogue.dll
+D:\SoftUni\C# Programming Fundamentals\ObjectsClassesFilesandExceptionsMoreExercises\Vehicle Catalogue\obj\Debug\netcoreapp2.0\Vehicle Catalogue.pdb

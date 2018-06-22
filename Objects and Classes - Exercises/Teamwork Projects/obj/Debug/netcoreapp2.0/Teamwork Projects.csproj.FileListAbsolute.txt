@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Teamwork Projects\bin\Debug\netcoreapp2.0\Teamwork Projects.deps.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Teamwork Projects\bin\Debug\netcoreapp2.0\Teamwork Projects.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Teamwork Projects\bin\Debug\netcoreapp2.0\Teamwork Projects.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Teamwork Projects\bin\Debug\netcoreapp2.0\Teamwork Projects.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Teamwork Projects\bin\Debug\netcoreapp2.0\Teamwork Projects.pdb
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Teamwork Projects\obj\Debug\netcoreapp2.0\Teamwork Projects.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Teamwork Projects\obj\Debug\netcoreapp2.0\Teamwork Projects.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Teamwork Projects\obj\Debug\netcoreapp2.0\Teamwork Projects.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Teamwork Projects\obj\Debug\netcoreapp2.0\Teamwork Projects.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Teamwork Projects\obj\Debug\netcoreapp2.0\Teamwork Projects.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Teamwork Projects\obj\Debug\netcoreapp2.0\Teamwork Projects.pdb

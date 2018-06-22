@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Сръбско Unleashed\bin\Debug\netcoreapp2.0\Сръбско Unleashed.deps.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Сръбско Unleashed\bin\Debug\netcoreapp2.0\Сръбско Unleashed.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Сръбско Unleashed\bin\Debug\netcoreapp2.0\Сръбско Unleashed.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Сръбско Unleashed\bin\Debug\netcoreapp2.0\Сръбско Unleashed.dll
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Сръбско Unleashed\bin\Debug\netcoreapp2.0\Сръбско Unleashed.pdb
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Сръбско Unleashed\obj\Debug\netcoreapp2.0\Сръбско Unleashed.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Сръбско Unleashed\obj\Debug\netcoreapp2.0\Сръбско Unleashed.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Сръбско Unleashed\obj\Debug\netcoreapp2.0\Сръбско Unleashed.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Сръбско Unleashed\obj\Debug\netcoreapp2.0\Сръбско Unleashed.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Сръбско Unleashed\obj\Debug\netcoreapp2.0\Сръбско Unleashed.dll
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Сръбско Unleashed\obj\Debug\netcoreapp2.0\Сръбско Unleashed.pdb

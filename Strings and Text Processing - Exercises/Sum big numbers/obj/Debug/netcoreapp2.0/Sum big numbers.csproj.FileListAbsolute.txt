@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Sum big numbers\bin\Debug\netcoreapp2.0\Sum big numbers.deps.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Sum big numbers\bin\Debug\netcoreapp2.0\Sum big numbers.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Sum big numbers\bin\Debug\netcoreapp2.0\Sum big numbers.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Sum big numbers\bin\Debug\netcoreapp2.0\Sum big numbers.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Sum big numbers\bin\Debug\netcoreapp2.0\Sum big numbers.pdb
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Sum big numbers\obj\Debug\netcoreapp2.0\Sum big numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Sum big numbers\obj\Debug\netcoreapp2.0\Sum big numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Sum big numbers\obj\Debug\netcoreapp2.0\Sum big numbers.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Sum big numbers\obj\Debug\netcoreapp2.0\Sum big numbers.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Sum big numbers\obj\Debug\netcoreapp2.0\Sum big numbers.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Sum big numbers\obj\Debug\netcoreapp2.0\Sum big numbers.pdb

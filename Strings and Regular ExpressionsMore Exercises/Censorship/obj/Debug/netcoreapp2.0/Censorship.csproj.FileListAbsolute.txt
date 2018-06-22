@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Censorship\bin\Debug\netcoreapp2.0\Censorship.deps.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Censorship\bin\Debug\netcoreapp2.0\Censorship.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Censorship\bin\Debug\netcoreapp2.0\Censorship.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Censorship\bin\Debug\netcoreapp2.0\Censorship.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Censorship\bin\Debug\netcoreapp2.0\Censorship.pdb
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Censorship\obj\Debug\netcoreapp2.0\Censorship.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Censorship\obj\Debug\netcoreapp2.0\Censorship.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Censorship\obj\Debug\netcoreapp2.0\Censorship.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Censorship\obj\Debug\netcoreapp2.0\Censorship.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Censorship\obj\Debug\netcoreapp2.0\Censorship.pdb

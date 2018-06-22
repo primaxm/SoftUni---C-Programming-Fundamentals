@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\BPM Counter\obj\Debug\netcoreapp2.0\BPM Counter.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\BPM Counter\obj\Debug\netcoreapp2.0\BPM Counter.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\BPM Counter\obj\Debug\netcoreapp2.0\BPM Counter.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\BPM Counter\obj\Debug\netcoreapp2.0\BPM Counter.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\BPM Counter\bin\Debug\netcoreapp2.0\BPM Counter.deps.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\BPM Counter\bin\Debug\netcoreapp2.0\BPM Counter.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\BPM Counter\bin\Debug\netcoreapp2.0\BPM Counter.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\BPM Counter\bin\Debug\netcoreapp2.0\BPM Counter.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\BPM Counter\bin\Debug\netcoreapp2.0\BPM Counter.pdb
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\BPM Counter\obj\Debug\netcoreapp2.0\BPM Counter.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\BPM Counter\obj\Debug\netcoreapp2.0\BPM Counter.pdb

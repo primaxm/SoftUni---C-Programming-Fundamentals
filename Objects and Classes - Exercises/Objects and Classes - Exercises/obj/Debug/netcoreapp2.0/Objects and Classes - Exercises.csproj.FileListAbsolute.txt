@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\bin\Debug\netcoreapp2.0\Objects and Classes - Exercises.deps.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\bin\Debug\netcoreapp2.0\Objects and Classes - Exercises.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\bin\Debug\netcoreapp2.0\Objects and Classes - Exercises.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\bin\Debug\netcoreapp2.0\Objects and Classes - Exercises.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\bin\Debug\netcoreapp2.0\Objects and Classes - Exercises.pdb
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\obj\Debug\netcoreapp2.0\Objects and Classes - Exercises.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\obj\Debug\netcoreapp2.0\Objects and Classes - Exercises.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\obj\Debug\netcoreapp2.0\Objects and Classes - Exercises.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\obj\Debug\netcoreapp2.0\Objects and Classes - Exercises.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\obj\Debug\netcoreapp2.0\Objects and Classes - Exercises.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Objects and Classes - Exercises\obj\Debug\netcoreapp2.0\Objects and Classes - Exercises.pdb

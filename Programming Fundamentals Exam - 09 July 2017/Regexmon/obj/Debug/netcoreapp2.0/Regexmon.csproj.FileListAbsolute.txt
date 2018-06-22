@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Regexmon\bin\Debug\netcoreapp2.0\Regexmon.deps.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Regexmon\bin\Debug\netcoreapp2.0\Regexmon.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Regexmon\bin\Debug\netcoreapp2.0\Regexmon.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Regexmon\bin\Debug\netcoreapp2.0\Regexmon.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Regexmon\bin\Debug\netcoreapp2.0\Regexmon.pdb
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Regexmon\obj\Debug\netcoreapp2.0\Regexmon.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Regexmon\obj\Debug\netcoreapp2.0\Regexmon.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Regexmon\obj\Debug\netcoreapp2.0\Regexmon.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Regexmon\obj\Debug\netcoreapp2.0\Regexmon.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Regexmon\obj\Debug\netcoreapp2.0\Regexmon.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Regexmon\obj\Debug\netcoreapp2.0\Regexmon.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Odd Occurrences\bin\Debug\netcoreapp2.0\Odd Occurrences.deps.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Odd Occurrences\bin\Debug\netcoreapp2.0\Odd Occurrences.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Odd Occurrences\bin\Debug\netcoreapp2.0\Odd Occurrences.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Odd Occurrences\bin\Debug\netcoreapp2.0\Odd Occurrences.dll
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Odd Occurrences\bin\Debug\netcoreapp2.0\Odd Occurrences.pdb
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Odd Occurrences\obj\Debug\netcoreapp2.0\Odd Occurrences.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Odd Occurrences\obj\Debug\netcoreapp2.0\Odd Occurrences.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Odd Occurrences\obj\Debug\netcoreapp2.0\Odd Occurrences.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Odd Occurrences\obj\Debug\netcoreapp2.0\Odd Occurrences.dll
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Odd Occurrences\obj\Debug\netcoreapp2.0\Odd Occurrences.pdb
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Odd Occurrences\obj\Debug\netcoreapp2.0\Odd Occurrences.csprojResolveAssemblyReference.cache

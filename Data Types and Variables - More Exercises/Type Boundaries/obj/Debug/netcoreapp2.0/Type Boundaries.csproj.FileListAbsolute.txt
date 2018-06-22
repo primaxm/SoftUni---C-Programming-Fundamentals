@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Type Boundaries\bin\Debug\netcoreapp2.0\Type Boundaries.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Type Boundaries\bin\Debug\netcoreapp2.0\Type Boundaries.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Type Boundaries\bin\Debug\netcoreapp2.0\Type Boundaries.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Type Boundaries\bin\Debug\netcoreapp2.0\Type Boundaries.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Type Boundaries\bin\Debug\netcoreapp2.0\Type Boundaries.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Type Boundaries\obj\Debug\netcoreapp2.0\Type Boundaries.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Type Boundaries\obj\Debug\netcoreapp2.0\Type Boundaries.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Type Boundaries\obj\Debug\netcoreapp2.0\Type Boundaries.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Type Boundaries\obj\Debug\netcoreapp2.0\Type Boundaries.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Type Boundaries\obj\Debug\netcoreapp2.0\Type Boundaries.pdb

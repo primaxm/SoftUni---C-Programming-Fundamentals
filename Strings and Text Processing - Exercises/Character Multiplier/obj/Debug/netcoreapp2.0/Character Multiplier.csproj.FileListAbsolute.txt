@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Character Multiplier\bin\Debug\netcoreapp2.0\Character Multiplier.deps.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Character Multiplier\bin\Debug\netcoreapp2.0\Character Multiplier.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Character Multiplier\bin\Debug\netcoreapp2.0\Character Multiplier.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Character Multiplier\bin\Debug\netcoreapp2.0\Character Multiplier.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Character Multiplier\bin\Debug\netcoreapp2.0\Character Multiplier.pdb
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Character Multiplier\obj\Debug\netcoreapp2.0\Character Multiplier.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Character Multiplier\obj\Debug\netcoreapp2.0\Character Multiplier.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Character Multiplier\obj\Debug\netcoreapp2.0\Character Multiplier.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Character Multiplier\obj\Debug\netcoreapp2.0\Character Multiplier.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Character Multiplier\obj\Debug\netcoreapp2.0\Character Multiplier.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Character Multiplier\obj\Debug\netcoreapp2.0\Character Multiplier.pdb

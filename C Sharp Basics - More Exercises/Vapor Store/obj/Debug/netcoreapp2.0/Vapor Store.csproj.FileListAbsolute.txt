@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Vapor Store\bin\Debug\netcoreapp2.0\Vapor Store.deps.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Vapor Store\bin\Debug\netcoreapp2.0\Vapor Store.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Vapor Store\bin\Debug\netcoreapp2.0\Vapor Store.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Vapor Store\bin\Debug\netcoreapp2.0\Vapor Store.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Vapor Store\bin\Debug\netcoreapp2.0\Vapor Store.pdb
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Vapor Store\obj\Debug\netcoreapp2.0\Vapor Store.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Vapor Store\obj\Debug\netcoreapp2.0\Vapor Store.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Vapor Store\obj\Debug\netcoreapp2.0\Vapor Store.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Vapor Store\obj\Debug\netcoreapp2.0\Vapor Store.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Vapor Store\obj\Debug\netcoreapp2.0\Vapor Store.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Vapor Store\obj\Debug\netcoreapp2.0\Vapor Store.pdb

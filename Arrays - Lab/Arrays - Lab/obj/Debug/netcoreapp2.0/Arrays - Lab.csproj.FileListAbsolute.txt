@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Arrays - Lab\bin\Debug\netcoreapp2.0\Arrays - Lab.deps.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Arrays - Lab\bin\Debug\netcoreapp2.0\Arrays - Lab.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Arrays - Lab\bin\Debug\netcoreapp2.0\Arrays - Lab.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Arrays - Lab\bin\Debug\netcoreapp2.0\Arrays - Lab.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Arrays - Lab\bin\Debug\netcoreapp2.0\Arrays - Lab.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Arrays - Lab\obj\Debug\netcoreapp2.0\Arrays - Lab.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Arrays - Lab\obj\Debug\netcoreapp2.0\Arrays - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Arrays - Lab\obj\Debug\netcoreapp2.0\Arrays - Lab.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Arrays - Lab\obj\Debug\netcoreapp2.0\Arrays - Lab.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Arrays - Lab\obj\Debug\netcoreapp2.0\Arrays - Lab.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Arrays - Lab\obj\Debug\netcoreapp2.0\Arrays - Lab.pdb

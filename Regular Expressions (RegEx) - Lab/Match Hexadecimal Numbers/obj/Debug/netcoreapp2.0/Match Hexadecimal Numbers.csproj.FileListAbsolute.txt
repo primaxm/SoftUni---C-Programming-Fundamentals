@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Hexadecimal Numbers\bin\Debug\netcoreapp2.0\Match Hexadecimal Numbers.deps.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Hexadecimal Numbers\bin\Debug\netcoreapp2.0\Match Hexadecimal Numbers.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Hexadecimal Numbers\bin\Debug\netcoreapp2.0\Match Hexadecimal Numbers.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Hexadecimal Numbers\bin\Debug\netcoreapp2.0\Match Hexadecimal Numbers.dll
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Hexadecimal Numbers\bin\Debug\netcoreapp2.0\Match Hexadecimal Numbers.pdb
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Hexadecimal Numbers\obj\Debug\netcoreapp2.0\Match Hexadecimal Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Hexadecimal Numbers\obj\Debug\netcoreapp2.0\Match Hexadecimal Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Hexadecimal Numbers\obj\Debug\netcoreapp2.0\Match Hexadecimal Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Hexadecimal Numbers\obj\Debug\netcoreapp2.0\Match Hexadecimal Numbers.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Hexadecimal Numbers\obj\Debug\netcoreapp2.0\Match Hexadecimal Numbers.dll
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Hexadecimal Numbers\obj\Debug\netcoreapp2.0\Match Hexadecimal Numbers.pdb

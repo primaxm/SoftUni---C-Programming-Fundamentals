@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Count the Integers\bin\Debug\netcoreapp2.0\Count the Integers.deps.json
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Count the Integers\bin\Debug\netcoreapp2.0\Count the Integers.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Count the Integers\bin\Debug\netcoreapp2.0\Count the Integers.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Count the Integers\bin\Debug\netcoreapp2.0\Count the Integers.dll
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Count the Integers\bin\Debug\netcoreapp2.0\Count the Integers.pdb
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Count the Integers\obj\Debug\netcoreapp2.0\Count the Integers.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Count the Integers\obj\Debug\netcoreapp2.0\Count the Integers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Count the Integers\obj\Debug\netcoreapp2.0\Count the Integers.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Count the Integers\obj\Debug\netcoreapp2.0\Count the Integers.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Count the Integers\obj\Debug\netcoreapp2.0\Count the Integers.dll
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Count the Integers\obj\Debug\netcoreapp2.0\Count the Integers.pdb

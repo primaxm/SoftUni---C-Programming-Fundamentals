@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Ladybug_new\bin\Debug\netcoreapp2.0\Ladybug_new.deps.json
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Ladybug_new\bin\Debug\netcoreapp2.0\Ladybug_new.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Ladybug_new\bin\Debug\netcoreapp2.0\Ladybug_new.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Ladybug_new\bin\Debug\netcoreapp2.0\Ladybug_new.dll
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Ladybug_new\bin\Debug\netcoreapp2.0\Ladybug_new.pdb
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Ladybug_new\obj\Debug\netcoreapp2.0\Ladybug_new.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Ladybug_new\obj\Debug\netcoreapp2.0\Ladybug_new.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Ladybug_new\obj\Debug\netcoreapp2.0\Ladybug_new.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Ladybug_new\obj\Debug\netcoreapp2.0\Ladybug_new.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Ladybug_new\obj\Debug\netcoreapp2.0\Ladybug_new.dll
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Ladybug_new\obj\Debug\netcoreapp2.0\Ladybug_new.pdb

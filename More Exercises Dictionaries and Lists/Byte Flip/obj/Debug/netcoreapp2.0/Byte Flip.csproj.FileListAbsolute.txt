@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Byte Flip\bin\Debug\netcoreapp2.0\Byte Flip.deps.json
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Byte Flip\bin\Debug\netcoreapp2.0\Byte Flip.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Byte Flip\bin\Debug\netcoreapp2.0\Byte Flip.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Byte Flip\bin\Debug\netcoreapp2.0\Byte Flip.dll
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Byte Flip\bin\Debug\netcoreapp2.0\Byte Flip.pdb
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Byte Flip\obj\Debug\netcoreapp2.0\Byte Flip.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Byte Flip\obj\Debug\netcoreapp2.0\Byte Flip.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Byte Flip\obj\Debug\netcoreapp2.0\Byte Flip.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Byte Flip\obj\Debug\netcoreapp2.0\Byte Flip.dll
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Byte Flip\obj\Debug\netcoreapp2.0\Byte Flip.pdb
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Byte Flip\obj\Debug\netcoreapp2.0\Byte Flip.csprojResolveAssemblyReference.cache

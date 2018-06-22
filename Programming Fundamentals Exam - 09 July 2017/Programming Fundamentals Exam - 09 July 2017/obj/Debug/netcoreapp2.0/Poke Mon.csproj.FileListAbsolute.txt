@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Programming Fundamentals Exam - 09 July 2017\bin\Debug\netcoreapp2.0\Poke Mon.deps.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Programming Fundamentals Exam - 09 July 2017\bin\Debug\netcoreapp2.0\Poke Mon.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Programming Fundamentals Exam - 09 July 2017\bin\Debug\netcoreapp2.0\Poke Mon.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Programming Fundamentals Exam - 09 July 2017\bin\Debug\netcoreapp2.0\Poke Mon.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Programming Fundamentals Exam - 09 July 2017\bin\Debug\netcoreapp2.0\Poke Mon.pdb
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Programming Fundamentals Exam - 09 July 2017\obj\Debug\netcoreapp2.0\Poke Mon.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Programming Fundamentals Exam - 09 July 2017\obj\Debug\netcoreapp2.0\Poke Mon.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Programming Fundamentals Exam - 09 July 2017\obj\Debug\netcoreapp2.0\Poke Mon.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Programming Fundamentals Exam - 09 July 2017\obj\Debug\netcoreapp2.0\Poke Mon.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Programming Fundamentals Exam - 09 July 2017\obj\Debug\netcoreapp2.0\Poke Mon.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Programming Fundamentals Exam - 09 July 2017\obj\Debug\netcoreapp2.0\Poke Mon.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Vowel or Digit\bin\Debug\netcoreapp2.0\Vowel or Digit.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Vowel or Digit\bin\Debug\netcoreapp2.0\Vowel or Digit.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Vowel or Digit\bin\Debug\netcoreapp2.0\Vowel or Digit.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Vowel or Digit\bin\Debug\netcoreapp2.0\Vowel or Digit.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Vowel or Digit\bin\Debug\netcoreapp2.0\Vowel or Digit.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Vowel or Digit\obj\Debug\netcoreapp2.0\Vowel or Digit.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Vowel or Digit\obj\Debug\netcoreapp2.0\Vowel or Digit.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Vowel or Digit\obj\Debug\netcoreapp2.0\Vowel or Digit.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Vowel or Digit\obj\Debug\netcoreapp2.0\Vowel or Digit.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Vowel or Digit\obj\Debug\netcoreapp2.0\Vowel or Digit.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Vowel or Digit\obj\Debug\netcoreapp2.0\Vowel or Digit.pdb

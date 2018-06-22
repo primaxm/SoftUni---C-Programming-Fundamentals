@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Rage Quit\bin\Debug\netcoreapp2.0\Rage Quit.deps.json
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Rage Quit\bin\Debug\netcoreapp2.0\Rage Quit.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Rage Quit\bin\Debug\netcoreapp2.0\Rage Quit.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Rage Quit\bin\Debug\netcoreapp2.0\Rage Quit.dll
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Rage Quit\bin\Debug\netcoreapp2.0\Rage Quit.pdb
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Rage Quit\obj\Debug\netcoreapp2.0\Rage Quit.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Rage Quit\obj\Debug\netcoreapp2.0\Rage Quit.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Rage Quit\obj\Debug\netcoreapp2.0\Rage Quit.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Rage Quit\obj\Debug\netcoreapp2.0\Rage Quit.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Rage Quit\obj\Debug\netcoreapp2.0\Rage Quit.dll
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Rage Quit\obj\Debug\netcoreapp2.0\Rage Quit.pdb

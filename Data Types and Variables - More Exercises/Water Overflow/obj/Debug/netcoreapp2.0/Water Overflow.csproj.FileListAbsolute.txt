@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Water Overflow\bin\Debug\netcoreapp2.0\Water Overflow.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Water Overflow\bin\Debug\netcoreapp2.0\Water Overflow.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Water Overflow\bin\Debug\netcoreapp2.0\Water Overflow.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Water Overflow\bin\Debug\netcoreapp2.0\Water Overflow.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Water Overflow\bin\Debug\netcoreapp2.0\Water Overflow.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Water Overflow\obj\Debug\netcoreapp2.0\Water Overflow.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Water Overflow\obj\Debug\netcoreapp2.0\Water Overflow.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Water Overflow\obj\Debug\netcoreapp2.0\Water Overflow.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Water Overflow\obj\Debug\netcoreapp2.0\Water Overflow.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Water Overflow\obj\Debug\netcoreapp2.0\Water Overflow.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Water Overflow\obj\Debug\netcoreapp2.0\Water Overflow.pdb

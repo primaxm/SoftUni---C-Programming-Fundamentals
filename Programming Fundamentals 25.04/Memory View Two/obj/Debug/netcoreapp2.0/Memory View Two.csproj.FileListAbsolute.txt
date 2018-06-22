@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Memory View Two\bin\Debug\netcoreapp2.0\Memory View Two.deps.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Memory View Two\bin\Debug\netcoreapp2.0\Memory View Two.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Memory View Two\bin\Debug\netcoreapp2.0\Memory View Two.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Memory View Two\bin\Debug\netcoreapp2.0\Memory View Two.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Memory View Two\bin\Debug\netcoreapp2.0\Memory View Two.pdb
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Memory View Two\obj\Debug\netcoreapp2.0\Memory View Two.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Memory View Two\obj\Debug\netcoreapp2.0\Memory View Two.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Memory View Two\obj\Debug\netcoreapp2.0\Memory View Two.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Memory View Two\obj\Debug\netcoreapp2.0\Memory View Two.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Memory View Two\obj\Debug\netcoreapp2.0\Memory View Two.pdb
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Memory View Two\obj\Debug\netcoreapp2.0\Memory View Two.csprojResolveAssemblyReference.cache

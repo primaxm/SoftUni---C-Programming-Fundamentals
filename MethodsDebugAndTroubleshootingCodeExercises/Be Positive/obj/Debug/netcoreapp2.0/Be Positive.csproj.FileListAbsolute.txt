@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Be Positive\obj\Debug\netcoreapp2.0\Be Positive.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Be Positive\obj\Debug\netcoreapp2.0\Be Positive.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Be Positive\obj\Debug\netcoreapp2.0\Be Positive.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Be Positive\obj\Debug\netcoreapp2.0\Be Positive.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Be Positive\bin\Debug\netcoreapp2.0\Be Positive.deps.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Be Positive\bin\Debug\netcoreapp2.0\Be Positive.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Be Positive\bin\Debug\netcoreapp2.0\Be Positive.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Be Positive\bin\Debug\netcoreapp2.0\Be Positive.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Be Positive\bin\Debug\netcoreapp2.0\Be Positive.pdb
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Be Positive\obj\Debug\netcoreapp2.0\Be Positive.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Be Positive\obj\Debug\netcoreapp2.0\Be Positive.pdb

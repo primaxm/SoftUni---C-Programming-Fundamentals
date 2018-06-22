@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Temperature Conversion\bin\Debug\netcoreapp2.0\Temperature Conversion.deps.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Temperature Conversion\bin\Debug\netcoreapp2.0\Temperature Conversion.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Temperature Conversion\bin\Debug\netcoreapp2.0\Temperature Conversion.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Temperature Conversion\bin\Debug\netcoreapp2.0\Temperature Conversion.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Temperature Conversion\bin\Debug\netcoreapp2.0\Temperature Conversion.pdb
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Temperature Conversion\obj\Debug\netcoreapp2.0\Temperature Conversion.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Temperature Conversion\obj\Debug\netcoreapp2.0\Temperature Conversion.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Temperature Conversion\obj\Debug\netcoreapp2.0\Temperature Conversion.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Temperature Conversion\obj\Debug\netcoreapp2.0\Temperature Conversion.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Temperature Conversion\obj\Debug\netcoreapp2.0\Temperature Conversion.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Temperature Conversion\obj\Debug\netcoreapp2.0\Temperature Conversion.pdb

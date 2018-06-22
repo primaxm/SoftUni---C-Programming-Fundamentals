@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Fix Emails\obj\Debug\netcoreapp2.0\Fix Emails.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Fix Emails\obj\Debug\netcoreapp2.0\Fix Emails.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Fix Emails\obj\Debug\netcoreapp2.0\Fix Emails.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Fix Emails\obj\Debug\netcoreapp2.0\Fix Emails.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Fix Emails\bin\Debug\netcoreapp2.0\Fix Emails.deps.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Fix Emails\bin\Debug\netcoreapp2.0\Fix Emails.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Fix Emails\bin\Debug\netcoreapp2.0\Fix Emails.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Fix Emails\bin\Debug\netcoreapp2.0\Fix Emails.dll
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Fix Emails\bin\Debug\netcoreapp2.0\Fix Emails.pdb
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Fix Emails\obj\Debug\netcoreapp2.0\Fix Emails.dll
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Fix Emails\obj\Debug\netcoreapp2.0\Fix Emails.pdb

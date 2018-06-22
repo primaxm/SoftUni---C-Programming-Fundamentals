@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Word in Plural\bin\Debug\netcoreapp2.0\Word in Plural.deps.json
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Word in Plural\bin\Debug\netcoreapp2.0\Word in Plural.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Word in Plural\bin\Debug\netcoreapp2.0\Word in Plural.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Word in Plural\bin\Debug\netcoreapp2.0\Word in Plural.dll
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Word in Plural\bin\Debug\netcoreapp2.0\Word in Plural.pdb
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Word in Plural\obj\Debug\netcoreapp2.0\Word in Plural.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Word in Plural\obj\Debug\netcoreapp2.0\Word in Plural.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Word in Plural\obj\Debug\netcoreapp2.0\Word in Plural.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Word in Plural\obj\Debug\netcoreapp2.0\Word in Plural.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Word in Plural\obj\Debug\netcoreapp2.0\Word in Plural.dll
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Word in Plural\obj\Debug\netcoreapp2.0\Word in Plural.pdb

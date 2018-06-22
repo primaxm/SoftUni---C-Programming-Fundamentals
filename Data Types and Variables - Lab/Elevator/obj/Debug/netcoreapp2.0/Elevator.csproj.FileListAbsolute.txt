@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Elevator\obj\Debug\netcoreapp2.0\Elevator.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Elevator\obj\Debug\netcoreapp2.0\Elevator.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Elevator\obj\Debug\netcoreapp2.0\Elevator.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Elevator\obj\Debug\netcoreapp2.0\Elevator.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Elevator\bin\Debug\netcoreapp2.0\Elevator.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Elevator\bin\Debug\netcoreapp2.0\Elevator.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Elevator\bin\Debug\netcoreapp2.0\Elevator.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Elevator\bin\Debug\netcoreapp2.0\Elevator.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Elevator\bin\Debug\netcoreapp2.0\Elevator.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Elevator\obj\Debug\netcoreapp2.0\Elevator.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Elevator\obj\Debug\netcoreapp2.0\Elevator.pdb

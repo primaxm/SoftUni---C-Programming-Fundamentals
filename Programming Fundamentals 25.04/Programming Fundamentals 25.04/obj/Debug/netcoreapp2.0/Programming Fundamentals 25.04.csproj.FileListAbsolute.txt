@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Programming Fundamentals 25.04\bin\Debug\netcoreapp2.0\Programming Fundamentals 25.04.deps.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Programming Fundamentals 25.04\bin\Debug\netcoreapp2.0\Programming Fundamentals 25.04.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Programming Fundamentals 25.04\bin\Debug\netcoreapp2.0\Programming Fundamentals 25.04.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Programming Fundamentals 25.04\bin\Debug\netcoreapp2.0\Programming Fundamentals 25.04.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Programming Fundamentals 25.04\bin\Debug\netcoreapp2.0\Programming Fundamentals 25.04.pdb
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Programming Fundamentals 25.04\obj\Debug\netcoreapp2.0\Programming Fundamentals 25.04.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Programming Fundamentals 25.04\obj\Debug\netcoreapp2.0\Programming Fundamentals 25.04.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Programming Fundamentals 25.04\obj\Debug\netcoreapp2.0\Programming Fundamentals 25.04.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Programming Fundamentals 25.04\obj\Debug\netcoreapp2.0\Programming Fundamentals 25.04.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Programming Fundamentals 25.04\obj\Debug\netcoreapp2.0\Programming Fundamentals 25.04.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Programming Fundamentals 25.04\obj\Debug\netcoreapp2.0\Programming Fundamentals 25.04.pdb

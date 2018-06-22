@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Training Hall Equipment\bin\Debug\netcoreapp2.0\Training Hall Equipment.deps.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Training Hall Equipment\bin\Debug\netcoreapp2.0\Training Hall Equipment.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Training Hall Equipment\bin\Debug\netcoreapp2.0\Training Hall Equipment.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Training Hall Equipment\bin\Debug\netcoreapp2.0\Training Hall Equipment.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Training Hall Equipment\bin\Debug\netcoreapp2.0\Training Hall Equipment.pdb
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Training Hall Equipment\obj\Debug\netcoreapp2.0\Training Hall Equipment.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Training Hall Equipment\obj\Debug\netcoreapp2.0\Training Hall Equipment.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Training Hall Equipment\obj\Debug\netcoreapp2.0\Training Hall Equipment.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Training Hall Equipment\obj\Debug\netcoreapp2.0\Training Hall Equipment.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Training Hall Equipment\obj\Debug\netcoreapp2.0\Training Hall Equipment.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\Training Hall Equipment\obj\Debug\netcoreapp2.0\Training Hall Equipment.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Convert Speed Units\bin\Debug\netcoreapp2.0\Convert Speed Units.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Convert Speed Units\bin\Debug\netcoreapp2.0\Convert Speed Units.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Convert Speed Units\bin\Debug\netcoreapp2.0\Convert Speed Units.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Convert Speed Units\bin\Debug\netcoreapp2.0\Convert Speed Units.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Convert Speed Units\bin\Debug\netcoreapp2.0\Convert Speed Units.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Convert Speed Units\obj\Debug\netcoreapp2.0\Convert Speed Units.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Convert Speed Units\obj\Debug\netcoreapp2.0\Convert Speed Units.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Convert Speed Units\obj\Debug\netcoreapp2.0\Convert Speed Units.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Convert Speed Units\obj\Debug\netcoreapp2.0\Convert Speed Units.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Convert Speed Units\obj\Debug\netcoreapp2.0\Convert Speed Units.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Convert Speed Units\obj\Debug\netcoreapp2.0\Convert Speed Units.pdb

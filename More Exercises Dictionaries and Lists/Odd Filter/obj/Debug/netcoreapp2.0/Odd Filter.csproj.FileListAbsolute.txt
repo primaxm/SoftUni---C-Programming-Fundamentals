@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Odd Filter\bin\Debug\netcoreapp2.0\Odd Filter.deps.json
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Odd Filter\bin\Debug\netcoreapp2.0\Odd Filter.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Odd Filter\bin\Debug\netcoreapp2.0\Odd Filter.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Odd Filter\bin\Debug\netcoreapp2.0\Odd Filter.dll
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Odd Filter\bin\Debug\netcoreapp2.0\Odd Filter.pdb
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Odd Filter\obj\Debug\netcoreapp2.0\Odd Filter.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Odd Filter\obj\Debug\netcoreapp2.0\Odd Filter.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Odd Filter\obj\Debug\netcoreapp2.0\Odd Filter.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Odd Filter\obj\Debug\netcoreapp2.0\Odd Filter.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Odd Filter\obj\Debug\netcoreapp2.0\Odd Filter.dll
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Odd Filter\obj\Debug\netcoreapp2.0\Odd Filter.pdb

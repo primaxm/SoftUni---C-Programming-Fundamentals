@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Strings and Text Processing - Exercises\bin\Debug\netcoreapp2.0\Strings and Text Processing - Exercises.deps.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Strings and Text Processing - Exercises\bin\Debug\netcoreapp2.0\Strings and Text Processing - Exercises.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Strings and Text Processing - Exercises\bin\Debug\netcoreapp2.0\Strings and Text Processing - Exercises.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Strings and Text Processing - Exercises\bin\Debug\netcoreapp2.0\Strings and Text Processing - Exercises.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Strings and Text Processing - Exercises\bin\Debug\netcoreapp2.0\Strings and Text Processing - Exercises.pdb
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Strings and Text Processing - Exercises\obj\Debug\netcoreapp2.0\Strings and Text Processing - Exercises.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Strings and Text Processing - Exercises\obj\Debug\netcoreapp2.0\Strings and Text Processing - Exercises.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Strings and Text Processing - Exercises\obj\Debug\netcoreapp2.0\Strings and Text Processing - Exercises.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Strings and Text Processing - Exercises\obj\Debug\netcoreapp2.0\Strings and Text Processing - Exercises.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Strings and Text Processing - Exercises\obj\Debug\netcoreapp2.0\Strings and Text Processing - Exercises.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Strings and Text Processing - Exercises\obj\Debug\netcoreapp2.0\Strings and Text Processing - Exercises.pdb

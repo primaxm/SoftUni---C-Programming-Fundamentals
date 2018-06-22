@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Foreign Languages\bin\Debug\netcoreapp2.0\Foreign Languages.deps.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Foreign Languages\bin\Debug\netcoreapp2.0\Foreign Languages.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Foreign Languages\bin\Debug\netcoreapp2.0\Foreign Languages.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Foreign Languages\bin\Debug\netcoreapp2.0\Foreign Languages.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Foreign Languages\bin\Debug\netcoreapp2.0\Foreign Languages.pdb
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Foreign Languages\obj\Debug\netcoreapp2.0\Foreign Languages.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Foreign Languages\obj\Debug\netcoreapp2.0\Foreign Languages.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Foreign Languages\obj\Debug\netcoreapp2.0\Foreign Languages.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Foreign Languages\obj\Debug\netcoreapp2.0\Foreign Languages.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Foreign Languages\obj\Debug\netcoreapp2.0\Foreign Languages.pdb

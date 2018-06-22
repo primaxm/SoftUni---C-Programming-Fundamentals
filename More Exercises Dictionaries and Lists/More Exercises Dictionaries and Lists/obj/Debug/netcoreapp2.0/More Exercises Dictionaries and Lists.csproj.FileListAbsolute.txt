@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\More Exercises Dictionaries and Lists\bin\Debug\netcoreapp2.0\More Exercises Dictionaries and Lists.deps.json
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\More Exercises Dictionaries and Lists\bin\Debug\netcoreapp2.0\More Exercises Dictionaries and Lists.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\More Exercises Dictionaries and Lists\bin\Debug\netcoreapp2.0\More Exercises Dictionaries and Lists.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\More Exercises Dictionaries and Lists\bin\Debug\netcoreapp2.0\More Exercises Dictionaries and Lists.dll
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\More Exercises Dictionaries and Lists\bin\Debug\netcoreapp2.0\More Exercises Dictionaries and Lists.pdb
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\More Exercises Dictionaries and Lists\obj\Debug\netcoreapp2.0\More Exercises Dictionaries and Lists.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\More Exercises Dictionaries and Lists\obj\Debug\netcoreapp2.0\More Exercises Dictionaries and Lists.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\More Exercises Dictionaries and Lists\obj\Debug\netcoreapp2.0\More Exercises Dictionaries and Lists.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\More Exercises Dictionaries and Lists\obj\Debug\netcoreapp2.0\More Exercises Dictionaries and Lists.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\More Exercises Dictionaries and Lists\obj\Debug\netcoreapp2.0\More Exercises Dictionaries and Lists.dll
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\More Exercises Dictionaries and Lists\obj\Debug\netcoreapp2.0\More Exercises Dictionaries and Lists.pdb

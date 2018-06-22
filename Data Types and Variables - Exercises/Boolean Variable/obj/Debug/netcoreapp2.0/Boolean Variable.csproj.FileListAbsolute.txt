@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Boolean Variable\obj\Debug\netcoreapp2.0\Boolean Variable.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Boolean Variable\obj\Debug\netcoreapp2.0\Boolean Variable.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Boolean Variable\obj\Debug\netcoreapp2.0\Boolean Variable.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Boolean Variable\bin\Debug\netcoreapp2.0\Boolean Variable.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Boolean Variable\bin\Debug\netcoreapp2.0\Boolean Variable.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Boolean Variable\bin\Debug\netcoreapp2.0\Boolean Variable.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Boolean Variable\bin\Debug\netcoreapp2.0\Boolean Variable.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Boolean Variable\bin\Debug\netcoreapp2.0\Boolean Variable.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Boolean Variable\obj\Debug\netcoreapp2.0\Boolean Variable.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Boolean Variable\obj\Debug\netcoreapp2.0\Boolean Variable.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Boolean Variable\obj\Debug\netcoreapp2.0\Boolean Variable.pdb

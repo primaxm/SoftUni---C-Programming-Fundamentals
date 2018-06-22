@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Max Method\bin\Debug\netcoreapp2.0\Max Method.deps.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Max Method\bin\Debug\netcoreapp2.0\Max Method.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Max Method\bin\Debug\netcoreapp2.0\Max Method.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Max Method\bin\Debug\netcoreapp2.0\Max Method.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Max Method\bin\Debug\netcoreapp2.0\Max Method.pdb
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Max Method\obj\Debug\netcoreapp2.0\Max Method.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Max Method\obj\Debug\netcoreapp2.0\Max Method.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Max Method\obj\Debug\netcoreapp2.0\Max Method.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Max Method\obj\Debug\netcoreapp2.0\Max Method.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Max Method\obj\Debug\netcoreapp2.0\Max Method.pdb

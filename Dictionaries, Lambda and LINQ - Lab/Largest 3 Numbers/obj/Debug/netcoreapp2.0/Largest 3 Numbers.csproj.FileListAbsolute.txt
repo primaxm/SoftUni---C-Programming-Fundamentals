@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Largest 3 Numbers\obj\Debug\netcoreapp2.0\Largest 3 Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Largest 3 Numbers\obj\Debug\netcoreapp2.0\Largest 3 Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Largest 3 Numbers\obj\Debug\netcoreapp2.0\Largest 3 Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Largest 3 Numbers\obj\Debug\netcoreapp2.0\Largest 3 Numbers.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Largest 3 Numbers\bin\Debug\netcoreapp2.0\Largest 3 Numbers.deps.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Largest 3 Numbers\bin\Debug\netcoreapp2.0\Largest 3 Numbers.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Largest 3 Numbers\bin\Debug\netcoreapp2.0\Largest 3 Numbers.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Largest 3 Numbers\bin\Debug\netcoreapp2.0\Largest 3 Numbers.dll
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Largest 3 Numbers\bin\Debug\netcoreapp2.0\Largest 3 Numbers.pdb
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Largest 3 Numbers\obj\Debug\netcoreapp2.0\Largest 3 Numbers.dll
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Largest 3 Numbers\obj\Debug\netcoreapp2.0\Largest 3 Numbers.pdb

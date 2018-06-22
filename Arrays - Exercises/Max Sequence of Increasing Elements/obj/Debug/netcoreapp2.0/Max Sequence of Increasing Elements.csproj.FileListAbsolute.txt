@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Max Sequence of Increasing Elements\bin\Debug\netcoreapp2.0\Max Sequence of Increasing Elements.deps.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Max Sequence of Increasing Elements\bin\Debug\netcoreapp2.0\Max Sequence of Increasing Elements.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Max Sequence of Increasing Elements\bin\Debug\netcoreapp2.0\Max Sequence of Increasing Elements.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Max Sequence of Increasing Elements\bin\Debug\netcoreapp2.0\Max Sequence of Increasing Elements.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Max Sequence of Increasing Elements\bin\Debug\netcoreapp2.0\Max Sequence of Increasing Elements.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.0\Max Sequence of Increasing Elements.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.0\Max Sequence of Increasing Elements.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.0\Max Sequence of Increasing Elements.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.0\Max Sequence of Increasing Elements.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.0\Max Sequence of Increasing Elements.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.0\Max Sequence of Increasing Elements.pdb

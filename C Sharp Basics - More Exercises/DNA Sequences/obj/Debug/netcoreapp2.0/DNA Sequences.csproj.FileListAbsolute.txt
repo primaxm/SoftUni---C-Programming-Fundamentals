@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\DNA Sequences\bin\Debug\netcoreapp2.0\DNA Sequences.deps.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\DNA Sequences\bin\Debug\netcoreapp2.0\DNA Sequences.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\DNA Sequences\bin\Debug\netcoreapp2.0\DNA Sequences.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\DNA Sequences\bin\Debug\netcoreapp2.0\DNA Sequences.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\DNA Sequences\bin\Debug\netcoreapp2.0\DNA Sequences.pdb
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\DNA Sequences\obj\Debug\netcoreapp2.0\DNA Sequences.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\DNA Sequences\obj\Debug\netcoreapp2.0\DNA Sequences.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\DNA Sequences\obj\Debug\netcoreapp2.0\DNA Sequences.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\DNA Sequences\obj\Debug\netcoreapp2.0\DNA Sequences.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\DNA Sequences\obj\Debug\netcoreapp2.0\DNA Sequences.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Basics - More Exercises\DNA Sequences\obj\Debug\netcoreapp2.0\DNA Sequences.pdb

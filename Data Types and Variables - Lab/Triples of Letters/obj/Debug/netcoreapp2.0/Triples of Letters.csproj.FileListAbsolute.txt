@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Triples of Letters\bin\Debug\netcoreapp2.0\Triples of Letters.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Triples of Letters\bin\Debug\netcoreapp2.0\Triples of Letters.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Triples of Letters\bin\Debug\netcoreapp2.0\Triples of Letters.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Triples of Letters\bin\Debug\netcoreapp2.0\Triples of Letters.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Triples of Letters\bin\Debug\netcoreapp2.0\Triples of Letters.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Triples of Letters\obj\Debug\netcoreapp2.0\Triples of Letters.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Triples of Letters\obj\Debug\netcoreapp2.0\Triples of Letters.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Triples of Letters\obj\Debug\netcoreapp2.0\Triples of Letters.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Triples of Letters\obj\Debug\netcoreapp2.0\Triples of Letters.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Triples of Letters\obj\Debug\netcoreapp2.0\Triples of Letters.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Triples of Letters\obj\Debug\netcoreapp2.0\Triples of Letters.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Full Name\bin\Debug\netcoreapp2.0\Match Full Name.deps.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Full Name\bin\Debug\netcoreapp2.0\Match Full Name.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Full Name\bin\Debug\netcoreapp2.0\Match Full Name.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Full Name\bin\Debug\netcoreapp2.0\Match Full Name.dll
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Full Name\bin\Debug\netcoreapp2.0\Match Full Name.pdb
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Full Name\obj\Debug\netcoreapp2.0\Match Full Name.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Full Name\obj\Debug\netcoreapp2.0\Match Full Name.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Full Name\obj\Debug\netcoreapp2.0\Match Full Name.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Full Name\obj\Debug\netcoreapp2.0\Match Full Name.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Full Name\obj\Debug\netcoreapp2.0\Match Full Name.dll
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Full Name\obj\Debug\netcoreapp2.0\Match Full Name.pdb

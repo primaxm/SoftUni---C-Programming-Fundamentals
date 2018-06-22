@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Student Groups\bin\Debug\netcoreapp2.0\Student Groups.deps.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Student Groups\bin\Debug\netcoreapp2.0\Student Groups.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Student Groups\bin\Debug\netcoreapp2.0\Student Groups.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Student Groups\bin\Debug\netcoreapp2.0\Student Groups.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Student Groups\bin\Debug\netcoreapp2.0\Student Groups.pdb
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Student Groups\obj\Debug\netcoreapp2.0\Student Groups.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Student Groups\obj\Debug\netcoreapp2.0\Student Groups.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Student Groups\obj\Debug\netcoreapp2.0\Student Groups.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Student Groups\obj\Debug\netcoreapp2.0\Student Groups.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Student Groups\obj\Debug\netcoreapp2.0\Student Groups.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Student Groups\obj\Debug\netcoreapp2.0\Student Groups.pdb

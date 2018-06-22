@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Weather\bin\Debug\netcoreapp2.0\Weather.deps.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Weather\bin\Debug\netcoreapp2.0\Weather.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Weather\bin\Debug\netcoreapp2.0\Weather.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Weather\bin\Debug\netcoreapp2.0\Weather.dll
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Weather\bin\Debug\netcoreapp2.0\Weather.pdb
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Weather\obj\Debug\netcoreapp2.0\Weather.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Weather\obj\Debug\netcoreapp2.0\Weather.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Weather\obj\Debug\netcoreapp2.0\Weather.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Weather\obj\Debug\netcoreapp2.0\Weather.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Weather\obj\Debug\netcoreapp2.0\Weather.dll
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Weather\obj\Debug\netcoreapp2.0\Weather.pdb

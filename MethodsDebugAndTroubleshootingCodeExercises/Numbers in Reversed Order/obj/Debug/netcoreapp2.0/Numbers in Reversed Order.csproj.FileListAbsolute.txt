@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Numbers in Reversed Order\bin\Debug\netcoreapp2.0\Numbers in Reversed Order.deps.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Numbers in Reversed Order\bin\Debug\netcoreapp2.0\Numbers in Reversed Order.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Numbers in Reversed Order\bin\Debug\netcoreapp2.0\Numbers in Reversed Order.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Numbers in Reversed Order\bin\Debug\netcoreapp2.0\Numbers in Reversed Order.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Numbers in Reversed Order\bin\Debug\netcoreapp2.0\Numbers in Reversed Order.pdb
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Numbers in Reversed Order\obj\Debug\netcoreapp2.0\Numbers in Reversed Order.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Numbers in Reversed Order\obj\Debug\netcoreapp2.0\Numbers in Reversed Order.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Numbers in Reversed Order\obj\Debug\netcoreapp2.0\Numbers in Reversed Order.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Numbers in Reversed Order\obj\Debug\netcoreapp2.0\Numbers in Reversed Order.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Numbers in Reversed Order\obj\Debug\netcoreapp2.0\Numbers in Reversed Order.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Numbers in Reversed Order\obj\Debug\netcoreapp2.0\Numbers in Reversed Order.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Reverse Array of Integers\bin\Debug\netcoreapp2.0\Reverse Array of Integers.deps.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Reverse Array of Integers\bin\Debug\netcoreapp2.0\Reverse Array of Integers.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Reverse Array of Integers\bin\Debug\netcoreapp2.0\Reverse Array of Integers.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Reverse Array of Integers\bin\Debug\netcoreapp2.0\Reverse Array of Integers.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Reverse Array of Integers\bin\Debug\netcoreapp2.0\Reverse Array of Integers.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Reverse Array of Integers\obj\Debug\netcoreapp2.0\Reverse Array of Integers.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Reverse Array of Integers\obj\Debug\netcoreapp2.0\Reverse Array of Integers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Reverse Array of Integers\obj\Debug\netcoreapp2.0\Reverse Array of Integers.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Reverse Array of Integers\obj\Debug\netcoreapp2.0\Reverse Array of Integers.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Reverse Array of Integers\obj\Debug\netcoreapp2.0\Reverse Array of Integers.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Reverse Array of Integers\obj\Debug\netcoreapp2.0\Reverse Array of Integers.pdb

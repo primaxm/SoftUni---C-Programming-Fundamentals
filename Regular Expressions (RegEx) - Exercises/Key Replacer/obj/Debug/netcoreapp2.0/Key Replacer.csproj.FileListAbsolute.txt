@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Key Replacer\bin\Debug\netcoreapp2.0\Key Replacer.deps.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Key Replacer\bin\Debug\netcoreapp2.0\Key Replacer.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Key Replacer\bin\Debug\netcoreapp2.0\Key Replacer.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Key Replacer\bin\Debug\netcoreapp2.0\Key Replacer.dll
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Key Replacer\bin\Debug\netcoreapp2.0\Key Replacer.pdb
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Key Replacer\obj\Debug\netcoreapp2.0\Key Replacer.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Key Replacer\obj\Debug\netcoreapp2.0\Key Replacer.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Key Replacer\obj\Debug\netcoreapp2.0\Key Replacer.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Key Replacer\obj\Debug\netcoreapp2.0\Key Replacer.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Key Replacer\obj\Debug\netcoreapp2.0\Key Replacer.dll
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Key Replacer\obj\Debug\netcoreapp2.0\Key Replacer.pdb

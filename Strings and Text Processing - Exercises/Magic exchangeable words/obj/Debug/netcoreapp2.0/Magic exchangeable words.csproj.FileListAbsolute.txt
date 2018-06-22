@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Magic exchangeable words\bin\Debug\netcoreapp2.0\Magic exchangeable words.deps.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Magic exchangeable words\bin\Debug\netcoreapp2.0\Magic exchangeable words.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Magic exchangeable words\bin\Debug\netcoreapp2.0\Magic exchangeable words.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Magic exchangeable words\bin\Debug\netcoreapp2.0\Magic exchangeable words.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Magic exchangeable words\bin\Debug\netcoreapp2.0\Magic exchangeable words.pdb
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Magic exchangeable words\obj\Debug\netcoreapp2.0\Magic exchangeable words.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Magic exchangeable words\obj\Debug\netcoreapp2.0\Magic exchangeable words.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Magic exchangeable words\obj\Debug\netcoreapp2.0\Magic exchangeable words.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Magic exchangeable words\obj\Debug\netcoreapp2.0\Magic exchangeable words.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Magic exchangeable words\obj\Debug\netcoreapp2.0\Magic exchangeable words.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Exercises\Magic exchangeable words\obj\Debug\netcoreapp2.0\Magic exchangeable words.pdb

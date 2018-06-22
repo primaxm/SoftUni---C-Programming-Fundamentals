@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Use Your Chains, Buddy\bin\Debug\netcoreapp2.0\Use Your Chains, Buddy.deps.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Use Your Chains, Buddy\bin\Debug\netcoreapp2.0\Use Your Chains, Buddy.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Use Your Chains, Buddy\bin\Debug\netcoreapp2.0\Use Your Chains, Buddy.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Use Your Chains, Buddy\bin\Debug\netcoreapp2.0\Use Your Chains, Buddy.dll
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Use Your Chains, Buddy\bin\Debug\netcoreapp2.0\Use Your Chains, Buddy.pdb
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Use Your Chains, Buddy\obj\Debug\netcoreapp2.0\Use Your Chains, Buddy.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Use Your Chains, Buddy\obj\Debug\netcoreapp2.0\Use Your Chains, Buddy.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Use Your Chains, Buddy\obj\Debug\netcoreapp2.0\Use Your Chains, Buddy.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Use Your Chains, Buddy\obj\Debug\netcoreapp2.0\Use Your Chains, Buddy.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Use Your Chains, Buddy\obj\Debug\netcoreapp2.0\Use Your Chains, Buddy.dll
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Use Your Chains, Buddy\obj\Debug\netcoreapp2.0\Use Your Chains, Buddy.pdb

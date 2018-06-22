@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Variable in Hex Format\bin\Debug\netcoreapp2.0\Variable in Hex Format.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Variable in Hex Format\bin\Debug\netcoreapp2.0\Variable in Hex Format.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Variable in Hex Format\bin\Debug\netcoreapp2.0\Variable in Hex Format.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Variable in Hex Format\bin\Debug\netcoreapp2.0\Variable in Hex Format.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Variable in Hex Format\bin\Debug\netcoreapp2.0\Variable in Hex Format.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Variable in Hex Format\obj\Debug\netcoreapp2.0\Variable in Hex Format.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Variable in Hex Format\obj\Debug\netcoreapp2.0\Variable in Hex Format.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Variable in Hex Format\obj\Debug\netcoreapp2.0\Variable in Hex Format.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Variable in Hex Format\obj\Debug\netcoreapp2.0\Variable in Hex Format.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Variable in Hex Format\obj\Debug\netcoreapp2.0\Variable in Hex Format.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Parking Validation\bin\Debug\netcoreapp2.0\Parking Validation.deps.json
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Parking Validation\bin\Debug\netcoreapp2.0\Parking Validation.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Parking Validation\bin\Debug\netcoreapp2.0\Parking Validation.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Parking Validation\bin\Debug\netcoreapp2.0\Parking Validation.dll
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Parking Validation\bin\Debug\netcoreapp2.0\Parking Validation.pdb
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Parking Validation\obj\Debug\netcoreapp2.0\Parking Validation.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Parking Validation\obj\Debug\netcoreapp2.0\Parking Validation.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Parking Validation\obj\Debug\netcoreapp2.0\Parking Validation.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Parking Validation\obj\Debug\netcoreapp2.0\Parking Validation.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Parking Validation\obj\Debug\netcoreapp2.0\Parking Validation.dll
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Parking Validation\obj\Debug\netcoreapp2.0\Parking Validation.pdb

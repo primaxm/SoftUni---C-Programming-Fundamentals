@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Passed\bin\Debug\netcoreapp2.0\Passed.deps.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Passed\bin\Debug\netcoreapp2.0\Passed.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Passed\bin\Debug\netcoreapp2.0\Passed.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Passed\bin\Debug\netcoreapp2.0\Passed.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Passed\bin\Debug\netcoreapp2.0\Passed.pdb
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Passed\obj\Debug\netcoreapp2.0\Passed.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Passed\obj\Debug\netcoreapp2.0\Passed.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Passed\obj\Debug\netcoreapp2.0\Passed.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Passed\obj\Debug\netcoreapp2.0\Passed.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Passed\obj\Debug\netcoreapp2.0\Passed.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Integer to Hex and Binary\bin\Debug\netcoreapp2.0\Integer to Hex and Binary.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Integer to Hex and Binary\bin\Debug\netcoreapp2.0\Integer to Hex and Binary.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Integer to Hex and Binary\bin\Debug\netcoreapp2.0\Integer to Hex and Binary.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Integer to Hex and Binary\bin\Debug\netcoreapp2.0\Integer to Hex and Binary.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Integer to Hex and Binary\bin\Debug\netcoreapp2.0\Integer to Hex and Binary.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Integer to Hex and Binary\obj\Debug\netcoreapp2.0\Integer to Hex and Binary.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Integer to Hex and Binary\obj\Debug\netcoreapp2.0\Integer to Hex and Binary.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Integer to Hex and Binary\obj\Debug\netcoreapp2.0\Integer to Hex and Binary.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Integer to Hex and Binary\obj\Debug\netcoreapp2.0\Integer to Hex and Binary.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Integer to Hex and Binary\obj\Debug\netcoreapp2.0\Integer to Hex and Binary.pdb

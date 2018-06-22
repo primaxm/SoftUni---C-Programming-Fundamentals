@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Average Grades\bin\Debug\netcoreapp2.0\Average Grades.deps.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Average Grades\bin\Debug\netcoreapp2.0\Average Grades.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Average Grades\bin\Debug\netcoreapp2.0\Average Grades.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Average Grades\bin\Debug\netcoreapp2.0\Average Grades.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Average Grades\bin\Debug\netcoreapp2.0\Average Grades.pdb
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Average Grades\obj\Debug\netcoreapp2.0\Average Grades.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Average Grades\obj\Debug\netcoreapp2.0\Average Grades.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Average Grades\obj\Debug\netcoreapp2.0\Average Grades.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Average Grades\obj\Debug\netcoreapp2.0\Average Grades.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Average Grades\obj\Debug\netcoreapp2.0\Average Grades.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Average Grades\obj\Debug\netcoreapp2.0\Average Grades.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Count Substring Occurrences\bin\Debug\netcoreapp2.0\Count Substring Occurrences.deps.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Count Substring Occurrences\bin\Debug\netcoreapp2.0\Count Substring Occurrences.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Count Substring Occurrences\bin\Debug\netcoreapp2.0\Count Substring Occurrences.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Count Substring Occurrences\bin\Debug\netcoreapp2.0\Count Substring Occurrences.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Count Substring Occurrences\bin\Debug\netcoreapp2.0\Count Substring Occurrences.pdb
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Count Substring Occurrences\obj\Debug\netcoreapp2.0\Count Substring Occurrences.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Count Substring Occurrences\obj\Debug\netcoreapp2.0\Count Substring Occurrences.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Count Substring Occurrences\obj\Debug\netcoreapp2.0\Count Substring Occurrences.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Count Substring Occurrences\obj\Debug\netcoreapp2.0\Count Substring Occurrences.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Count Substring Occurrences\obj\Debug\netcoreapp2.0\Count Substring Occurrences.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Count Substring Occurrences\obj\Debug\netcoreapp2.0\Count Substring Occurrences.pdb

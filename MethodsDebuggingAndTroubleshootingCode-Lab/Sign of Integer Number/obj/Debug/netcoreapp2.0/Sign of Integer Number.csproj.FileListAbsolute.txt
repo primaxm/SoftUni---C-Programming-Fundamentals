@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Sign of Integer Number\bin\Debug\netcoreapp2.0\Sign of Integer Number.deps.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Sign of Integer Number\bin\Debug\netcoreapp2.0\Sign of Integer Number.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Sign of Integer Number\bin\Debug\netcoreapp2.0\Sign of Integer Number.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Sign of Integer Number\bin\Debug\netcoreapp2.0\Sign of Integer Number.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Sign of Integer Number\bin\Debug\netcoreapp2.0\Sign of Integer Number.pdb
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Sign of Integer Number\obj\Debug\netcoreapp2.0\Sign of Integer Number.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Sign of Integer Number\obj\Debug\netcoreapp2.0\Sign of Integer Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Sign of Integer Number\obj\Debug\netcoreapp2.0\Sign of Integer Number.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Sign of Integer Number\obj\Debug\netcoreapp2.0\Sign of Integer Number.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Sign of Integer Number\obj\Debug\netcoreapp2.0\Sign of Integer Number.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Sign of Integer Number\obj\Debug\netcoreapp2.0\Sign of Integer Number.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Dictionaries, Lambda and LINQ - Lab\bin\Debug\netcoreapp2.0\Dictionaries, Lambda and LINQ - Lab.deps.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Dictionaries, Lambda and LINQ - Lab\bin\Debug\netcoreapp2.0\Dictionaries, Lambda and LINQ - Lab.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Dictionaries, Lambda and LINQ - Lab\bin\Debug\netcoreapp2.0\Dictionaries, Lambda and LINQ - Lab.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Dictionaries, Lambda and LINQ - Lab\bin\Debug\netcoreapp2.0\Dictionaries, Lambda and LINQ - Lab.dll
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Dictionaries, Lambda and LINQ - Lab\bin\Debug\netcoreapp2.0\Dictionaries, Lambda and LINQ - Lab.pdb
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Dictionaries, Lambda and LINQ - Lab\obj\Debug\netcoreapp2.0\Dictionaries, Lambda and LINQ - Lab.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Dictionaries, Lambda and LINQ - Lab\obj\Debug\netcoreapp2.0\Dictionaries, Lambda and LINQ - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Dictionaries, Lambda and LINQ - Lab\obj\Debug\netcoreapp2.0\Dictionaries, Lambda and LINQ - Lab.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Dictionaries, Lambda and LINQ - Lab\obj\Debug\netcoreapp2.0\Dictionaries, Lambda and LINQ - Lab.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Dictionaries, Lambda and LINQ - Lab\obj\Debug\netcoreapp2.0\Dictionaries, Lambda and LINQ - Lab.dll
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Lab\Dictionaries, Lambda and LINQ - Lab\obj\Debug\netcoreapp2.0\Dictionaries, Lambda and LINQ - Lab.pdb

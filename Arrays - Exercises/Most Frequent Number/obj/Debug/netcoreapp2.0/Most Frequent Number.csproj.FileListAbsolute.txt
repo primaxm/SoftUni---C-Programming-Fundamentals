@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Most Frequent Number\bin\Debug\netcoreapp2.0\Most Frequent Number.deps.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Most Frequent Number\bin\Debug\netcoreapp2.0\Most Frequent Number.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Most Frequent Number\bin\Debug\netcoreapp2.0\Most Frequent Number.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Most Frequent Number\bin\Debug\netcoreapp2.0\Most Frequent Number.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Most Frequent Number\bin\Debug\netcoreapp2.0\Most Frequent Number.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Most Frequent Number\obj\Debug\netcoreapp2.0\Most Frequent Number.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Most Frequent Number\obj\Debug\netcoreapp2.0\Most Frequent Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Most Frequent Number\obj\Debug\netcoreapp2.0\Most Frequent Number.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Most Frequent Number\obj\Debug\netcoreapp2.0\Most Frequent Number.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Most Frequent Number\obj\Debug\netcoreapp2.0\Most Frequent Number.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Most Frequent Number\obj\Debug\netcoreapp2.0\Most Frequent Number.pdb

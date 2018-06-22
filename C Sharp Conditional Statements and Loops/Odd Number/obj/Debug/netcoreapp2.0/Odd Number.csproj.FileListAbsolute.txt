@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Odd Number\bin\Debug\netcoreapp2.0\Odd Number.deps.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Odd Number\bin\Debug\netcoreapp2.0\Odd Number.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Odd Number\bin\Debug\netcoreapp2.0\Odd Number.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Odd Number\bin\Debug\netcoreapp2.0\Odd Number.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Odd Number\bin\Debug\netcoreapp2.0\Odd Number.pdb
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Odd Number\obj\Debug\netcoreapp2.0\Odd Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Odd Number\obj\Debug\netcoreapp2.0\Odd Number.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Odd Number\obj\Debug\netcoreapp2.0\Odd Number.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Odd Number\obj\Debug\netcoreapp2.0\Odd Number.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\Odd Number\obj\Debug\netcoreapp2.0\Odd Number.pdb

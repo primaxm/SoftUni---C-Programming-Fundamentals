@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Population Counter\bin\Debug\netcoreapp2.0\Population Counter.deps.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Population Counter\bin\Debug\netcoreapp2.0\Population Counter.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Population Counter\bin\Debug\netcoreapp2.0\Population Counter.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Population Counter\bin\Debug\netcoreapp2.0\Population Counter.dll
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Population Counter\bin\Debug\netcoreapp2.0\Population Counter.pdb
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Population Counter\obj\Debug\netcoreapp2.0\Population Counter.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Population Counter\obj\Debug\netcoreapp2.0\Population Counter.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Population Counter\obj\Debug\netcoreapp2.0\Population Counter.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Population Counter\obj\Debug\netcoreapp2.0\Population Counter.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Population Counter\obj\Debug\netcoreapp2.0\Population Counter.dll
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Population Counter\obj\Debug\netcoreapp2.0\Population Counter.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Rectangle Properties\bin\Debug\netcoreapp2.0\Rectangle Properties.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Rectangle Properties\bin\Debug\netcoreapp2.0\Rectangle Properties.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Rectangle Properties\bin\Debug\netcoreapp2.0\Rectangle Properties.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Rectangle Properties\bin\Debug\netcoreapp2.0\Rectangle Properties.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Rectangle Properties\bin\Debug\netcoreapp2.0\Rectangle Properties.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Rectangle Properties\obj\Debug\netcoreapp2.0\Rectangle Properties.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Rectangle Properties\obj\Debug\netcoreapp2.0\Rectangle Properties.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Rectangle Properties\obj\Debug\netcoreapp2.0\Rectangle Properties.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Rectangle Properties\obj\Debug\netcoreapp2.0\Rectangle Properties.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Rectangle Properties\obj\Debug\netcoreapp2.0\Rectangle Properties.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Rectangle Properties\obj\Debug\netcoreapp2.0\Rectangle Properties.pdb

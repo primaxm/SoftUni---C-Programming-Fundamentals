@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Instruction Set\bin\Debug\netcoreapp2.0\Instruction Set.deps.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Instruction Set\bin\Debug\netcoreapp2.0\Instruction Set.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Instruction Set\bin\Debug\netcoreapp2.0\Instruction Set.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Instruction Set\bin\Debug\netcoreapp2.0\Instruction Set.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Instruction Set\bin\Debug\netcoreapp2.0\Instruction Set.pdb
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Instruction Set\obj\Debug\netcoreapp2.0\Instruction Set.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Instruction Set\obj\Debug\netcoreapp2.0\Instruction Set.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Instruction Set\obj\Debug\netcoreapp2.0\Instruction Set.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Instruction Set\obj\Debug\netcoreapp2.0\Instruction Set.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Instruction Set\obj\Debug\netcoreapp2.0\Instruction Set.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\Instruction Set\obj\Debug\netcoreapp2.0\Instruction Set.pdb

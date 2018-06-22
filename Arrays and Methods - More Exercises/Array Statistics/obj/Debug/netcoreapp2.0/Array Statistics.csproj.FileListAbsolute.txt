@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Array Statistics\bin\Debug\netcoreapp2.0\Array Statistics.deps.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Array Statistics\bin\Debug\netcoreapp2.0\Array Statistics.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Array Statistics\bin\Debug\netcoreapp2.0\Array Statistics.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Array Statistics\bin\Debug\netcoreapp2.0\Array Statistics.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Array Statistics\bin\Debug\netcoreapp2.0\Array Statistics.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Array Statistics\obj\Debug\netcoreapp2.0\Array Statistics.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Array Statistics\obj\Debug\netcoreapp2.0\Array Statistics.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Array Statistics\obj\Debug\netcoreapp2.0\Array Statistics.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Array Statistics\obj\Debug\netcoreapp2.0\Array Statistics.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Array Statistics\obj\Debug\netcoreapp2.0\Array Statistics.pdb

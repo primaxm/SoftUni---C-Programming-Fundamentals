@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Hideout\bin\Debug\netcoreapp2.0\Hideout.deps.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Hideout\bin\Debug\netcoreapp2.0\Hideout.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Hideout\bin\Debug\netcoreapp2.0\Hideout.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Hideout\bin\Debug\netcoreapp2.0\Hideout.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Hideout\bin\Debug\netcoreapp2.0\Hideout.pdb
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Hideout\obj\Debug\netcoreapp2.0\Hideout.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Hideout\obj\Debug\netcoreapp2.0\Hideout.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Hideout\obj\Debug\netcoreapp2.0\Hideout.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Hideout\obj\Debug\netcoreapp2.0\Hideout.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Hideout\obj\Debug\netcoreapp2.0\Hideout.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Hideout\obj\Debug\netcoreapp2.0\Hideout.pdb

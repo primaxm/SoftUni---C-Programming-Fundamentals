@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Email me\bin\Debug\netcoreapp2.0\Email me.deps.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Email me\bin\Debug\netcoreapp2.0\Email me.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Email me\bin\Debug\netcoreapp2.0\Email me.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Email me\bin\Debug\netcoreapp2.0\Email me.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Email me\bin\Debug\netcoreapp2.0\Email me.pdb
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Email me\obj\Debug\netcoreapp2.0\Email me.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Email me\obj\Debug\netcoreapp2.0\Email me.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Email me\obj\Debug\netcoreapp2.0\Email me.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Email me\obj\Debug\netcoreapp2.0\Email me.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Email me\obj\Debug\netcoreapp2.0\Email me.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Email me\obj\Debug\netcoreapp2.0\Email me.pdb

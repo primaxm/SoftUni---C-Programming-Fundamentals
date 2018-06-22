@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\test\bin\Debug\netcoreapp2.0\test.deps.json
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\test\bin\Debug\netcoreapp2.0\test.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\test\bin\Debug\netcoreapp2.0\test.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\test\bin\Debug\netcoreapp2.0\test.dll
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\test\bin\Debug\netcoreapp2.0\test.pdb
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\test\obj\Debug\netcoreapp2.0\test.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\test\obj\Debug\netcoreapp2.0\test.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\test\obj\Debug\netcoreapp2.0\test.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\test\obj\Debug\netcoreapp2.0\test.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\test\obj\Debug\netcoreapp2.0\test.dll
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\test\obj\Debug\netcoreapp2.0\test.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Rounding Numbers\bin\Debug\netcoreapp2.0\Rounding Numbers.deps.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Rounding Numbers\bin\Debug\netcoreapp2.0\Rounding Numbers.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Rounding Numbers\bin\Debug\netcoreapp2.0\Rounding Numbers.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Rounding Numbers\bin\Debug\netcoreapp2.0\Rounding Numbers.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Rounding Numbers\bin\Debug\netcoreapp2.0\Rounding Numbers.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Rounding Numbers\obj\Debug\netcoreapp2.0\Rounding Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Rounding Numbers\obj\Debug\netcoreapp2.0\Rounding Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Rounding Numbers\obj\Debug\netcoreapp2.0\Rounding Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Rounding Numbers\obj\Debug\netcoreapp2.0\Rounding Numbers.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Rounding Numbers\obj\Debug\netcoreapp2.0\Rounding Numbers.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Rounding Numbers\obj\Debug\netcoreapp2.0\Rounding Numbers.pdb

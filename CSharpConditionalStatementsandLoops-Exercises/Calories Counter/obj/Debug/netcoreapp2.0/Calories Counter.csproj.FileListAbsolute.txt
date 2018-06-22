@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Calories Counter\bin\Debug\netcoreapp2.0\Calories Counter.deps.json
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Calories Counter\bin\Debug\netcoreapp2.0\Calories Counter.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Calories Counter\bin\Debug\netcoreapp2.0\Calories Counter.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Calories Counter\bin\Debug\netcoreapp2.0\Calories Counter.dll
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Calories Counter\bin\Debug\netcoreapp2.0\Calories Counter.pdb
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Calories Counter\obj\Debug\netcoreapp2.0\Calories Counter.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Calories Counter\obj\Debug\netcoreapp2.0\Calories Counter.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Calories Counter\obj\Debug\netcoreapp2.0\Calories Counter.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Calories Counter\obj\Debug\netcoreapp2.0\Calories Counter.dll
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\Calories Counter\obj\Debug\netcoreapp2.0\Calories Counter.pdb

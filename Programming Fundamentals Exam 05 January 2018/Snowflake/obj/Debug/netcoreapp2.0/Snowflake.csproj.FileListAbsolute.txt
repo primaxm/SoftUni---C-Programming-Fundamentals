@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Snowflake\obj\Debug\netcoreapp2.0\Snowflake.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Snowflake\obj\Debug\netcoreapp2.0\Snowflake.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Snowflake\obj\Debug\netcoreapp2.0\Snowflake.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Snowflake\obj\Debug\netcoreapp2.0\Snowflake.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Snowflake\bin\Debug\netcoreapp2.0\Snowflake.deps.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Snowflake\bin\Debug\netcoreapp2.0\Snowflake.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Snowflake\bin\Debug\netcoreapp2.0\Snowflake.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Snowflake\bin\Debug\netcoreapp2.0\Snowflake.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Snowflake\bin\Debug\netcoreapp2.0\Snowflake.pdb
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Snowflake\obj\Debug\netcoreapp2.0\Snowflake.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam 05 January 2018\Snowflake\obj\Debug\netcoreapp2.0\Snowflake.pdb

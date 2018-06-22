@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\String Concatenation\obj\Debug\netcoreapp2.0\String Concatenation.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\String Concatenation\obj\Debug\netcoreapp2.0\String Concatenation.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\String Concatenation\obj\Debug\netcoreapp2.0\String Concatenation.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\String Concatenation\obj\Debug\netcoreapp2.0\String Concatenation.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\String Concatenation\bin\Debug\netcoreapp2.0\String Concatenation.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\String Concatenation\bin\Debug\netcoreapp2.0\String Concatenation.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\String Concatenation\bin\Debug\netcoreapp2.0\String Concatenation.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\String Concatenation\bin\Debug\netcoreapp2.0\String Concatenation.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\String Concatenation\bin\Debug\netcoreapp2.0\String Concatenation.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\String Concatenation\obj\Debug\netcoreapp2.0\String Concatenation.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\String Concatenation\obj\Debug\netcoreapp2.0\String Concatenation.pdb

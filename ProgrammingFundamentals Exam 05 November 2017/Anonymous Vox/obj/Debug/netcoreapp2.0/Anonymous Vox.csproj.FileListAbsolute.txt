@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\Anonymous Vox\obj\Debug\netcoreapp2.0\Anonymous Vox.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\Anonymous Vox\obj\Debug\netcoreapp2.0\Anonymous Vox.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\Anonymous Vox\obj\Debug\netcoreapp2.0\Anonymous Vox.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\Anonymous Vox\bin\Debug\netcoreapp2.0\Anonymous Vox.deps.json
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\Anonymous Vox\bin\Debug\netcoreapp2.0\Anonymous Vox.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\Anonymous Vox\bin\Debug\netcoreapp2.0\Anonymous Vox.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\Anonymous Vox\bin\Debug\netcoreapp2.0\Anonymous Vox.dll
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\Anonymous Vox\bin\Debug\netcoreapp2.0\Anonymous Vox.pdb
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\Anonymous Vox\obj\Debug\netcoreapp2.0\Anonymous Vox.dll
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\Anonymous Vox\obj\Debug\netcoreapp2.0\Anonymous Vox.pdb
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\Anonymous Vox\obj\Debug\netcoreapp2.0\Anonymous Vox.csprojResolveAssemblyReference.cache

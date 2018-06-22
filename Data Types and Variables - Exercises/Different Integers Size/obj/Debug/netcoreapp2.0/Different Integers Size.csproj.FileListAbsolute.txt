@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Different Integers Size\bin\Debug\netcoreapp2.0\Different Integers Size.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Different Integers Size\bin\Debug\netcoreapp2.0\Different Integers Size.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Different Integers Size\bin\Debug\netcoreapp2.0\Different Integers Size.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Different Integers Size\bin\Debug\netcoreapp2.0\Different Integers Size.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Different Integers Size\bin\Debug\netcoreapp2.0\Different Integers Size.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Different Integers Size\obj\Debug\netcoreapp2.0\Different Integers Size.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Different Integers Size\obj\Debug\netcoreapp2.0\Different Integers Size.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Different Integers Size\obj\Debug\netcoreapp2.0\Different Integers Size.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Different Integers Size\obj\Debug\netcoreapp2.0\Different Integers Size.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Different Integers Size\obj\Debug\netcoreapp2.0\Different Integers Size.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Different Integers Size\obj\Debug\netcoreapp2.0\Different Integers Size.pdb

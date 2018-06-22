@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Heists\obj\Debug\netcoreapp2.0\Heists.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Heists\obj\Debug\netcoreapp2.0\Heists.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Heists\obj\Debug\netcoreapp2.0\Heists.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Heists\obj\Debug\netcoreapp2.0\Heists.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Heists\bin\Debug\netcoreapp2.0\Heists.deps.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Heists\bin\Debug\netcoreapp2.0\Heists.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Heists\bin\Debug\netcoreapp2.0\Heists.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Heists\bin\Debug\netcoreapp2.0\Heists.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Heists\bin\Debug\netcoreapp2.0\Heists.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Heists\obj\Debug\netcoreapp2.0\Heists.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Heists\obj\Debug\netcoreapp2.0\Heists.pdb

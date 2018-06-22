@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Tseam Account\bin\Debug\netcoreapp2.0\Tseam Account.deps.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Tseam Account\bin\Debug\netcoreapp2.0\Tseam Account.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Tseam Account\bin\Debug\netcoreapp2.0\Tseam Account.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Tseam Account\bin\Debug\netcoreapp2.0\Tseam Account.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Tseam Account\bin\Debug\netcoreapp2.0\Tseam Account.pdb
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Tseam Account\obj\Debug\netcoreapp2.0\Tseam Account.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Tseam Account\obj\Debug\netcoreapp2.0\Tseam Account.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Tseam Account\obj\Debug\netcoreapp2.0\Tseam Account.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Tseam Account\obj\Debug\netcoreapp2.0\Tseam Account.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Tseam Account\obj\Debug\netcoreapp2.0\Tseam Account.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals 25.04\Tseam Account\obj\Debug\netcoreapp2.0\Tseam Account.pdb

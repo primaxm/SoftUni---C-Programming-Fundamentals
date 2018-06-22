@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Logs Aggregator\bin\Debug\netcoreapp2.0\Logs Aggregator.deps.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Logs Aggregator\bin\Debug\netcoreapp2.0\Logs Aggregator.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Logs Aggregator\bin\Debug\netcoreapp2.0\Logs Aggregator.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Logs Aggregator\bin\Debug\netcoreapp2.0\Logs Aggregator.dll
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Logs Aggregator\bin\Debug\netcoreapp2.0\Logs Aggregator.pdb
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Logs Aggregator\obj\Debug\netcoreapp2.0\Logs Aggregator.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Logs Aggregator\obj\Debug\netcoreapp2.0\Logs Aggregator.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Logs Aggregator\obj\Debug\netcoreapp2.0\Logs Aggregator.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Logs Aggregator\obj\Debug\netcoreapp2.0\Logs Aggregator.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Logs Aggregator\obj\Debug\netcoreapp2.0\Logs Aggregator.dll
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\Logs Aggregator\obj\Debug\netcoreapp2.0\Logs Aggregator.pdb

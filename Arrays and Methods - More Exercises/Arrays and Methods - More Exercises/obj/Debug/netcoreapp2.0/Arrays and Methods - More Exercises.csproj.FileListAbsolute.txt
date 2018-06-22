@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Arrays and Methods - More Exercises\bin\Debug\netcoreapp2.0\Arrays and Methods - More Exercises.deps.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Arrays and Methods - More Exercises\bin\Debug\netcoreapp2.0\Arrays and Methods - More Exercises.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Arrays and Methods - More Exercises\bin\Debug\netcoreapp2.0\Arrays and Methods - More Exercises.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Arrays and Methods - More Exercises\bin\Debug\netcoreapp2.0\Arrays and Methods - More Exercises.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Arrays and Methods - More Exercises\bin\Debug\netcoreapp2.0\Arrays and Methods - More Exercises.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Arrays and Methods - More Exercises\obj\Debug\netcoreapp2.0\Arrays and Methods - More Exercises.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Arrays and Methods - More Exercises\obj\Debug\netcoreapp2.0\Arrays and Methods - More Exercises.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Arrays and Methods - More Exercises\obj\Debug\netcoreapp2.0\Arrays and Methods - More Exercises.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Arrays and Methods - More Exercises\obj\Debug\netcoreapp2.0\Arrays and Methods - More Exercises.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Arrays and Methods - More Exercises\obj\Debug\netcoreapp2.0\Arrays and Methods - More Exercises.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Arrays and Methods - More Exercises\obj\Debug\netcoreapp2.0\Arrays and Methods - More Exercises.pdb

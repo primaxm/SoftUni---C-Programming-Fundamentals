@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Circle Area\bin\Debug\netcoreapp2.0\Circle Area.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Circle Area\bin\Debug\netcoreapp2.0\Circle Area.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Circle Area\bin\Debug\netcoreapp2.0\Circle Area.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Circle Area\bin\Debug\netcoreapp2.0\Circle Area.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Circle Area\bin\Debug\netcoreapp2.0\Circle Area.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Circle Area\obj\Debug\netcoreapp2.0\Circle Area.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Circle Area\obj\Debug\netcoreapp2.0\Circle Area.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Circle Area\obj\Debug\netcoreapp2.0\Circle Area.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Circle Area\obj\Debug\netcoreapp2.0\Circle Area.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Lab\Circle Area\obj\Debug\netcoreapp2.0\Circle Area.pdb

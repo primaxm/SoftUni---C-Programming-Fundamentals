@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Draw a Filled Square\bin\Debug\netcoreapp2.0\Draw a Filled Square.deps.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Draw a Filled Square\bin\Debug\netcoreapp2.0\Draw a Filled Square.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Draw a Filled Square\bin\Debug\netcoreapp2.0\Draw a Filled Square.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Draw a Filled Square\bin\Debug\netcoreapp2.0\Draw a Filled Square.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Draw a Filled Square\bin\Debug\netcoreapp2.0\Draw a Filled Square.pdb
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Draw a Filled Square\obj\Debug\netcoreapp2.0\Draw a Filled Square.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Draw a Filled Square\obj\Debug\netcoreapp2.0\Draw a Filled Square.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Draw a Filled Square\obj\Debug\netcoreapp2.0\Draw a Filled Square.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Draw a Filled Square\obj\Debug\netcoreapp2.0\Draw a Filled Square.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebuggingAndTroubleshootingCode-Lab\Draw a Filled Square\obj\Debug\netcoreapp2.0\Draw a Filled Square.pdb

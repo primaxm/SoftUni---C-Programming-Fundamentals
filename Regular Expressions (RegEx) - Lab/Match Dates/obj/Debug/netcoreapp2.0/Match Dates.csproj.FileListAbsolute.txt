@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Dates\bin\Debug\netcoreapp2.0\Match Dates.deps.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Dates\bin\Debug\netcoreapp2.0\Match Dates.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Dates\bin\Debug\netcoreapp2.0\Match Dates.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Dates\bin\Debug\netcoreapp2.0\Match Dates.dll
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Dates\bin\Debug\netcoreapp2.0\Match Dates.pdb
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Dates\obj\Debug\netcoreapp2.0\Match Dates.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Dates\obj\Debug\netcoreapp2.0\Match Dates.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Dates\obj\Debug\netcoreapp2.0\Match Dates.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Dates\obj\Debug\netcoreapp2.0\Match Dates.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Dates\obj\Debug\netcoreapp2.0\Match Dates.dll
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Dates\obj\Debug\netcoreapp2.0\Match Dates.pdb

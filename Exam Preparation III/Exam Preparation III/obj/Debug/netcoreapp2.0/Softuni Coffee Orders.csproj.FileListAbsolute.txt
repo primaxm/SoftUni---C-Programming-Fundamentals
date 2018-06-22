@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Exam Preparation III\bin\Debug\netcoreapp2.0\Softuni Coffee Orders.deps.json
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Exam Preparation III\bin\Debug\netcoreapp2.0\Softuni Coffee Orders.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Exam Preparation III\bin\Debug\netcoreapp2.0\Softuni Coffee Orders.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Exam Preparation III\bin\Debug\netcoreapp2.0\Softuni Coffee Orders.dll
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Exam Preparation III\bin\Debug\netcoreapp2.0\Softuni Coffee Orders.pdb
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Exam Preparation III\obj\Debug\netcoreapp2.0\Softuni Coffee Orders.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Exam Preparation III\obj\Debug\netcoreapp2.0\Softuni Coffee Orders.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Exam Preparation III\obj\Debug\netcoreapp2.0\Softuni Coffee Orders.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Exam Preparation III\obj\Debug\netcoreapp2.0\Softuni Coffee Orders.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Exam Preparation III\obj\Debug\netcoreapp2.0\Softuni Coffee Orders.dll
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation III\Exam Preparation III\obj\Debug\netcoreapp2.0\Softuni Coffee Orders.pdb

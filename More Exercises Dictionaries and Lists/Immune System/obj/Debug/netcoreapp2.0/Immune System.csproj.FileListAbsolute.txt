@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Immune System\bin\Debug\netcoreapp2.0\Immune System.deps.json
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Immune System\bin\Debug\netcoreapp2.0\Immune System.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Immune System\bin\Debug\netcoreapp2.0\Immune System.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Immune System\bin\Debug\netcoreapp2.0\Immune System.dll
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Immune System\bin\Debug\netcoreapp2.0\Immune System.pdb
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Immune System\obj\Debug\netcoreapp2.0\Immune System.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Immune System\obj\Debug\netcoreapp2.0\Immune System.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Immune System\obj\Debug\netcoreapp2.0\Immune System.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Immune System\obj\Debug\netcoreapp2.0\Immune System.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Immune System\obj\Debug\netcoreapp2.0\Immune System.dll
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Immune System\obj\Debug\netcoreapp2.0\Immune System.pdb

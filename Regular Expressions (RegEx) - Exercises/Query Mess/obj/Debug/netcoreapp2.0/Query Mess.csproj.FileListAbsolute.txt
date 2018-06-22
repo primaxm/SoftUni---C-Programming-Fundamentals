@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Query Mess\bin\Debug\netcoreapp2.0\Query Mess.deps.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Query Mess\bin\Debug\netcoreapp2.0\Query Mess.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Query Mess\bin\Debug\netcoreapp2.0\Query Mess.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Query Mess\bin\Debug\netcoreapp2.0\Query Mess.dll
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Query Mess\bin\Debug\netcoreapp2.0\Query Mess.pdb
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Query Mess\obj\Debug\netcoreapp2.0\Query Mess.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Query Mess\obj\Debug\netcoreapp2.0\Query Mess.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Query Mess\obj\Debug\netcoreapp2.0\Query Mess.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Query Mess\obj\Debug\netcoreapp2.0\Query Mess.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Query Mess\obj\Debug\netcoreapp2.0\Query Mess.dll
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Query Mess\obj\Debug\netcoreapp2.0\Query Mess.pdb

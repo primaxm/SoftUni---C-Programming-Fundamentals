@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Reverse String\bin\Debug\netcoreapp2.0\Reverse String.deps.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Reverse String\bin\Debug\netcoreapp2.0\Reverse String.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Reverse String\bin\Debug\netcoreapp2.0\Reverse String.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Reverse String\bin\Debug\netcoreapp2.0\Reverse String.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Reverse String\bin\Debug\netcoreapp2.0\Reverse String.pdb
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Reverse String\obj\Debug\netcoreapp2.0\Reverse String.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Reverse String\obj\Debug\netcoreapp2.0\Reverse String.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Reverse String\obj\Debug\netcoreapp2.0\Reverse String.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Reverse String\obj\Debug\netcoreapp2.0\Reverse String.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Reverse String\obj\Debug\netcoreapp2.0\Reverse String.pdb

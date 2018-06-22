@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Objects and Classes - Lab\bin\Debug\netcoreapp2.0\Objects and Classes - Lab.deps.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Objects and Classes - Lab\bin\Debug\netcoreapp2.0\Objects and Classes - Lab.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Objects and Classes - Lab\bin\Debug\netcoreapp2.0\Objects and Classes - Lab.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Objects and Classes - Lab\bin\Debug\netcoreapp2.0\Objects and Classes - Lab.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Objects and Classes - Lab\bin\Debug\netcoreapp2.0\Objects and Classes - Lab.pdb
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Objects and Classes - Lab\obj\Debug\netcoreapp2.0\Objects and Classes - Lab.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Objects and Classes - Lab\obj\Debug\netcoreapp2.0\Objects and Classes - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Objects and Classes - Lab\obj\Debug\netcoreapp2.0\Objects and Classes - Lab.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Objects and Classes - Lab\obj\Debug\netcoreapp2.0\Objects and Classes - Lab.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Objects and Classes - Lab\obj\Debug\netcoreapp2.0\Objects and Classes - Lab.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Lab\Objects and Classes - Lab\obj\Debug\netcoreapp2.0\Objects and Classes - Lab.pdb

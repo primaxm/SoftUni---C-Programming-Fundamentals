@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Andrey and Billiard\obj\Debug\netcoreapp2.0\Andrey and Billiard.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Andrey and Billiard\obj\Debug\netcoreapp2.0\Andrey and Billiard.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Andrey and Billiard\obj\Debug\netcoreapp2.0\Andrey and Billiard.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Andrey and Billiard\obj\Debug\netcoreapp2.0\Andrey and Billiard.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Andrey and Billiard\bin\Debug\netcoreapp2.0\Andrey and Billiard.deps.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Andrey and Billiard\bin\Debug\netcoreapp2.0\Andrey and Billiard.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Andrey and Billiard\bin\Debug\netcoreapp2.0\Andrey and Billiard.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Andrey and Billiard\bin\Debug\netcoreapp2.0\Andrey and Billiard.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Andrey and Billiard\bin\Debug\netcoreapp2.0\Andrey and Billiard.pdb
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Andrey and Billiard\obj\Debug\netcoreapp2.0\Andrey and Billiard.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Andrey and Billiard\obj\Debug\netcoreapp2.0\Andrey and Billiard.pdb

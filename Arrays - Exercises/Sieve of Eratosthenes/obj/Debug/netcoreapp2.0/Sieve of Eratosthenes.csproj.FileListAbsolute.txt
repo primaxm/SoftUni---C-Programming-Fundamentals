@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Sieve of Eratosthenes\bin\Debug\netcoreapp2.0\Sieve of Eratosthenes.deps.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Sieve of Eratosthenes\bin\Debug\netcoreapp2.0\Sieve of Eratosthenes.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Sieve of Eratosthenes\bin\Debug\netcoreapp2.0\Sieve of Eratosthenes.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Sieve of Eratosthenes\bin\Debug\netcoreapp2.0\Sieve of Eratosthenes.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Sieve of Eratosthenes\bin\Debug\netcoreapp2.0\Sieve of Eratosthenes.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Sieve of Eratosthenes\obj\Debug\netcoreapp2.0\Sieve of Eratosthenes.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Sieve of Eratosthenes\obj\Debug\netcoreapp2.0\Sieve of Eratosthenes.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Sieve of Eratosthenes\obj\Debug\netcoreapp2.0\Sieve of Eratosthenes.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Sieve of Eratosthenes\obj\Debug\netcoreapp2.0\Sieve of Eratosthenes.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Sieve of Eratosthenes\obj\Debug\netcoreapp2.0\Sieve of Eratosthenes.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Sieve of Eratosthenes\obj\Debug\netcoreapp2.0\Sieve of Eratosthenes.pdb

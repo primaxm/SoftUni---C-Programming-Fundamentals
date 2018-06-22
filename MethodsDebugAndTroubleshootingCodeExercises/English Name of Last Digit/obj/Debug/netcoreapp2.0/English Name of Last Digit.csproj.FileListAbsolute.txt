@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\English Name of Last Digit\bin\Debug\netcoreapp2.0\English Name of Last Digit.deps.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\English Name of Last Digit\bin\Debug\netcoreapp2.0\English Name of Last Digit.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\English Name of Last Digit\bin\Debug\netcoreapp2.0\English Name of Last Digit.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\English Name of Last Digit\bin\Debug\netcoreapp2.0\English Name of Last Digit.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\English Name of Last Digit\bin\Debug\netcoreapp2.0\English Name of Last Digit.pdb
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\English Name of Last Digit\obj\Debug\netcoreapp2.0\English Name of Last Digit.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\English Name of Last Digit\obj\Debug\netcoreapp2.0\English Name of Last Digit.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\English Name of Last Digit\obj\Debug\netcoreapp2.0\English Name of Last Digit.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\English Name of Last Digit\obj\Debug\netcoreapp2.0\English Name of Last Digit.dll
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\English Name of Last Digit\obj\Debug\netcoreapp2.0\English Name of Last Digit.pdb
+D:\SoftUni\C# Programming Fundamentals\MethodsDebugAndTroubleshootingCodeExercises\English Name of Last Digit\obj\Debug\netcoreapp2.0\English Name of Last Digit.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\ProgrammingFundamentals Exam 05 November 2017\bin\Debug\netcoreapp2.0\Anonymous Downsite.deps.json
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\ProgrammingFundamentals Exam 05 November 2017\bin\Debug\netcoreapp2.0\Anonymous Downsite.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\ProgrammingFundamentals Exam 05 November 2017\bin\Debug\netcoreapp2.0\Anonymous Downsite.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\ProgrammingFundamentals Exam 05 November 2017\bin\Debug\netcoreapp2.0\Anonymous Downsite.dll
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\ProgrammingFundamentals Exam 05 November 2017\bin\Debug\netcoreapp2.0\Anonymous Downsite.pdb
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\ProgrammingFundamentals Exam 05 November 2017\obj\Debug\netcoreapp2.0\Anonymous Downsite.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\ProgrammingFundamentals Exam 05 November 2017\obj\Debug\netcoreapp2.0\Anonymous Downsite.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\ProgrammingFundamentals Exam 05 November 2017\obj\Debug\netcoreapp2.0\Anonymous Downsite.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\ProgrammingFundamentals Exam 05 November 2017\obj\Debug\netcoreapp2.0\Anonymous Downsite.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\ProgrammingFundamentals Exam 05 November 2017\obj\Debug\netcoreapp2.0\Anonymous Downsite.dll
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\ProgrammingFundamentals Exam 05 November 2017\obj\Debug\netcoreapp2.0\Anonymous Downsite.pdb

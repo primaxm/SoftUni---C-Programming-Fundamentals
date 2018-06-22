@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\User Logs\bin\Debug\netcoreapp2.0\User Logs.deps.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\User Logs\bin\Debug\netcoreapp2.0\User Logs.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\User Logs\bin\Debug\netcoreapp2.0\User Logs.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\User Logs\bin\Debug\netcoreapp2.0\User Logs.dll
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\User Logs\bin\Debug\netcoreapp2.0\User Logs.pdb
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\User Logs\obj\Debug\netcoreapp2.0\User Logs.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\User Logs\obj\Debug\netcoreapp2.0\User Logs.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\User Logs\obj\Debug\netcoreapp2.0\User Logs.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\User Logs\obj\Debug\netcoreapp2.0\User Logs.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\User Logs\obj\Debug\netcoreapp2.0\User Logs.dll
+D:\SoftUni\C# Programming Fundamentals\Dictionaries, Lambda and LINQ - Exercises\User Logs\obj\Debug\netcoreapp2.0\User Logs.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Supermarket Database\bin\Debug\netcoreapp2.0\Supermarket Database.deps.json
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Supermarket Database\bin\Debug\netcoreapp2.0\Supermarket Database.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Supermarket Database\bin\Debug\netcoreapp2.0\Supermarket Database.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Supermarket Database\bin\Debug\netcoreapp2.0\Supermarket Database.dll
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Supermarket Database\bin\Debug\netcoreapp2.0\Supermarket Database.pdb
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Supermarket Database\obj\Debug\netcoreapp2.0\Supermarket Database.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Supermarket Database\obj\Debug\netcoreapp2.0\Supermarket Database.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Supermarket Database\obj\Debug\netcoreapp2.0\Supermarket Database.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Supermarket Database\obj\Debug\netcoreapp2.0\Supermarket Database.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Supermarket Database\obj\Debug\netcoreapp2.0\Supermarket Database.dll
+D:\SoftUni\C# Programming Fundamentals\More Exercises Dictionaries and Lists\Supermarket Database\obj\Debug\netcoreapp2.0\Supermarket Database.pdb

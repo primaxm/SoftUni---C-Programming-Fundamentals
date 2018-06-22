@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\C Sharp Conditional Statements and Loops\bin\Debug\netcoreapp2.0\C Sharp Conditional Statements and Loops.deps.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\C Sharp Conditional Statements and Loops\bin\Debug\netcoreapp2.0\C Sharp Conditional Statements and Loops.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\C Sharp Conditional Statements and Loops\bin\Debug\netcoreapp2.0\C Sharp Conditional Statements and Loops.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\C Sharp Conditional Statements and Loops\bin\Debug\netcoreapp2.0\C Sharp Conditional Statements and Loops.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\C Sharp Conditional Statements and Loops\bin\Debug\netcoreapp2.0\C Sharp Conditional Statements and Loops.pdb
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\C Sharp Conditional Statements and Loops\obj\Debug\netcoreapp2.0\C Sharp Conditional Statements and Loops.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\C Sharp Conditional Statements and Loops\obj\Debug\netcoreapp2.0\C Sharp Conditional Statements and Loops.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\C Sharp Conditional Statements and Loops\obj\Debug\netcoreapp2.0\C Sharp Conditional Statements and Loops.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\C Sharp Conditional Statements and Loops\obj\Debug\netcoreapp2.0\C Sharp Conditional Statements and Loops.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\C Sharp Conditional Statements and Loops\obj\Debug\netcoreapp2.0\C Sharp Conditional Statements and Loops.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Conditional Statements and Loops\C Sharp Conditional Statements and Loops\obj\Debug\netcoreapp2.0\C Sharp Conditional Statements and Loops.pdb

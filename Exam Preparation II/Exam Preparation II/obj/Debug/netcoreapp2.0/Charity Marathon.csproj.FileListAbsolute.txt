@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Exam Preparation II\bin\Debug\netcoreapp2.0\Charity Marathon.deps.json
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Exam Preparation II\bin\Debug\netcoreapp2.0\Charity Marathon.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Exam Preparation II\bin\Debug\netcoreapp2.0\Charity Marathon.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Exam Preparation II\bin\Debug\netcoreapp2.0\Charity Marathon.dll
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Exam Preparation II\bin\Debug\netcoreapp2.0\Charity Marathon.pdb
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Exam Preparation II\obj\Debug\netcoreapp2.0\Charity Marathon.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Exam Preparation II\obj\Debug\netcoreapp2.0\Charity Marathon.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Exam Preparation II\obj\Debug\netcoreapp2.0\Charity Marathon.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Exam Preparation II\obj\Debug\netcoreapp2.0\Charity Marathon.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Exam Preparation II\obj\Debug\netcoreapp2.0\Charity Marathon.dll
+D:\SoftUni\C# Programming Fundamentals\Exam Preparation II\Exam Preparation II\obj\Debug\netcoreapp2.0\Charity Marathon.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Practice Chars And Strings\bin\Debug\netcoreapp2.0\Practice Chars And Strings.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Practice Chars And Strings\bin\Debug\netcoreapp2.0\Practice Chars And Strings.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Practice Chars And Strings\bin\Debug\netcoreapp2.0\Practice Chars And Strings.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Practice Chars And Strings\bin\Debug\netcoreapp2.0\Practice Chars And Strings.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Practice Chars And Strings\bin\Debug\netcoreapp2.0\Practice Chars And Strings.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Practice Chars And Strings\obj\Debug\netcoreapp2.0\Practice Chars And Strings.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Practice Chars And Strings\obj\Debug\netcoreapp2.0\Practice Chars And Strings.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Practice Chars And Strings\obj\Debug\netcoreapp2.0\Practice Chars And Strings.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Practice Chars And Strings\obj\Debug\netcoreapp2.0\Practice Chars And Strings.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Practice Chars And Strings\obj\Debug\netcoreapp2.0\Practice Chars And Strings.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - Exercises\Practice Chars And Strings\obj\Debug\netcoreapp2.0\Practice Chars And Strings.pdb

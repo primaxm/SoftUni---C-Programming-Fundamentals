@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Lists - Exercises\bin\Debug\netcoreapp2.0\Lists - Exercises.deps.json
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Lists - Exercises\bin\Debug\netcoreapp2.0\Lists - Exercises.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Lists - Exercises\bin\Debug\netcoreapp2.0\Lists - Exercises.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Lists - Exercises\bin\Debug\netcoreapp2.0\Lists - Exercises.dll
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Lists - Exercises\bin\Debug\netcoreapp2.0\Lists - Exercises.pdb
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Lists - Exercises\obj\Debug\netcoreapp2.0\Lists - Exercises.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Lists - Exercises\obj\Debug\netcoreapp2.0\Lists - Exercises.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Lists - Exercises\obj\Debug\netcoreapp2.0\Lists - Exercises.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Lists - Exercises\obj\Debug\netcoreapp2.0\Lists - Exercises.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Lists - Exercises\obj\Debug\netcoreapp2.0\Lists - Exercises.dll
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Lists - Exercises\obj\Debug\netcoreapp2.0\Lists - Exercises.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Manipulate Array\bin\Debug\netcoreapp2.0\Manipulate Array.deps.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Manipulate Array\bin\Debug\netcoreapp2.0\Manipulate Array.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Manipulate Array\bin\Debug\netcoreapp2.0\Manipulate Array.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Manipulate Array\bin\Debug\netcoreapp2.0\Manipulate Array.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Manipulate Array\bin\Debug\netcoreapp2.0\Manipulate Array.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Manipulate Array\obj\Debug\netcoreapp2.0\Manipulate Array.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Manipulate Array\obj\Debug\netcoreapp2.0\Manipulate Array.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Manipulate Array\obj\Debug\netcoreapp2.0\Manipulate Array.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Manipulate Array\obj\Debug\netcoreapp2.0\Manipulate Array.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Manipulate Array\obj\Debug\netcoreapp2.0\Manipulate Array.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Manipulate Array\obj\Debug\netcoreapp2.0\Manipulate Array.csprojResolveAssemblyReference.cache

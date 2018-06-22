@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Only Letters\bin\Debug\netcoreapp2.0\Only Letters.deps.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Only Letters\bin\Debug\netcoreapp2.0\Only Letters.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Only Letters\bin\Debug\netcoreapp2.0\Only Letters.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Only Letters\bin\Debug\netcoreapp2.0\Only Letters.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Only Letters\bin\Debug\netcoreapp2.0\Only Letters.pdb
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Only Letters\obj\Debug\netcoreapp2.0\Only Letters.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Only Letters\obj\Debug\netcoreapp2.0\Only Letters.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Only Letters\obj\Debug\netcoreapp2.0\Only Letters.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Only Letters\obj\Debug\netcoreapp2.0\Only Letters.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Only Letters\obj\Debug\netcoreapp2.0\Only Letters.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Regular ExpressionsMore Exercises\Only Letters\obj\Debug\netcoreapp2.0\Only Letters.pdb

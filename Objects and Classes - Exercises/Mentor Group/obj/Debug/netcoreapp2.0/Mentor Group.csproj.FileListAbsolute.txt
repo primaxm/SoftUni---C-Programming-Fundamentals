@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Mentor Group\bin\Debug\netcoreapp2.0\Mentor Group.deps.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Mentor Group\bin\Debug\netcoreapp2.0\Mentor Group.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Mentor Group\bin\Debug\netcoreapp2.0\Mentor Group.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Mentor Group\bin\Debug\netcoreapp2.0\Mentor Group.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Mentor Group\bin\Debug\netcoreapp2.0\Mentor Group.pdb
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Mentor Group\obj\Debug\netcoreapp2.0\Mentor Group.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Mentor Group\obj\Debug\netcoreapp2.0\Mentor Group.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Mentor Group\obj\Debug\netcoreapp2.0\Mentor Group.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Mentor Group\obj\Debug\netcoreapp2.0\Mentor Group.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Mentor Group\obj\Debug\netcoreapp2.0\Mentor Group.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Mentor Group\obj\Debug\netcoreapp2.0\Mentor Group.pdb

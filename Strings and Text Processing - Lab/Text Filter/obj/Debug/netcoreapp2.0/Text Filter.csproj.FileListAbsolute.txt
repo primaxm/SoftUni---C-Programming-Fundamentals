@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Text Filter\obj\Debug\netcoreapp2.0\Text Filter.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Text Filter\obj\Debug\netcoreapp2.0\Text Filter.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Text Filter\obj\Debug\netcoreapp2.0\Text Filter.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Text Filter\obj\Debug\netcoreapp2.0\Text Filter.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Text Filter\bin\Debug\netcoreapp2.0\Text Filter.deps.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Text Filter\bin\Debug\netcoreapp2.0\Text Filter.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Text Filter\bin\Debug\netcoreapp2.0\Text Filter.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Text Filter\bin\Debug\netcoreapp2.0\Text Filter.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Text Filter\bin\Debug\netcoreapp2.0\Text Filter.pdb
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Text Filter\obj\Debug\netcoreapp2.0\Text Filter.dll
+D:\SoftUni\C# Programming Fundamentals\Strings and Text Processing - Lab\Text Filter\obj\Debug\netcoreapp2.0\Text Filter.pdb

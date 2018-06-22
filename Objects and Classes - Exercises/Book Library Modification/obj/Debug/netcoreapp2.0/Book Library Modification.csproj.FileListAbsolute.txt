@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Book Library Modification\bin\Debug\netcoreapp2.0\Book Library Modification.deps.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Book Library Modification\bin\Debug\netcoreapp2.0\Book Library Modification.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Book Library Modification\bin\Debug\netcoreapp2.0\Book Library Modification.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Book Library Modification\bin\Debug\netcoreapp2.0\Book Library Modification.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Book Library Modification\bin\Debug\netcoreapp2.0\Book Library Modification.pdb
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Book Library Modification\obj\Debug\netcoreapp2.0\Book Library Modification.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Book Library Modification\obj\Debug\netcoreapp2.0\Book Library Modification.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Book Library Modification\obj\Debug\netcoreapp2.0\Book Library Modification.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Book Library Modification\obj\Debug\netcoreapp2.0\Book Library Modification.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Book Library Modification\obj\Debug\netcoreapp2.0\Book Library Modification.dll
+D:\SoftUni\C# Programming Fundamentals\Objects and Classes - Exercises\Book Library Modification\obj\Debug\netcoreapp2.0\Book Library Modification.pdb

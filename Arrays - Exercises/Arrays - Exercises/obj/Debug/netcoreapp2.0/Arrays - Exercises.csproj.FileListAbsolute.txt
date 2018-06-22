@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Arrays - Exercises\bin\Debug\netcoreapp2.0\Arrays - Exercises.deps.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Arrays - Exercises\bin\Debug\netcoreapp2.0\Arrays - Exercises.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Arrays - Exercises\bin\Debug\netcoreapp2.0\Arrays - Exercises.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Arrays - Exercises\bin\Debug\netcoreapp2.0\Arrays - Exercises.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Arrays - Exercises\bin\Debug\netcoreapp2.0\Arrays - Exercises.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Arrays - Exercises\obj\Debug\netcoreapp2.0\Arrays - Exercises.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Arrays - Exercises\obj\Debug\netcoreapp2.0\Arrays - Exercises.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Arrays - Exercises\obj\Debug\netcoreapp2.0\Arrays - Exercises.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Arrays - Exercises\obj\Debug\netcoreapp2.0\Arrays - Exercises.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Arrays - Exercises\obj\Debug\netcoreapp2.0\Arrays - Exercises.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Arrays - Exercises\obj\Debug\netcoreapp2.0\Arrays - Exercises.pdb

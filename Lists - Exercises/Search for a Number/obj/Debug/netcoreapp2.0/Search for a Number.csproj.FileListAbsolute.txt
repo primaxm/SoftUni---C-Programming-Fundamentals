@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Search for a Number\bin\Debug\netcoreapp2.0\Search for a Number.deps.json
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Search for a Number\bin\Debug\netcoreapp2.0\Search for a Number.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Search for a Number\bin\Debug\netcoreapp2.0\Search for a Number.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Search for a Number\bin\Debug\netcoreapp2.0\Search for a Number.dll
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Search for a Number\bin\Debug\netcoreapp2.0\Search for a Number.pdb
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Search for a Number\obj\Debug\netcoreapp2.0\Search for a Number.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Search for a Number\obj\Debug\netcoreapp2.0\Search for a Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Search for a Number\obj\Debug\netcoreapp2.0\Search for a Number.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Search for a Number\obj\Debug\netcoreapp2.0\Search for a Number.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Search for a Number\obj\Debug\netcoreapp2.0\Search for a Number.dll
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Search for a Number\obj\Debug\netcoreapp2.0\Search for a Number.pdb

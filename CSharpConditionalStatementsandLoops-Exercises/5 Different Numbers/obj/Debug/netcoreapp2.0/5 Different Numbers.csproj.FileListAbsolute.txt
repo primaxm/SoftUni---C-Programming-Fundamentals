@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\5 Different Numbers\bin\Debug\netcoreapp2.0\5 Different Numbers.deps.json
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\5 Different Numbers\bin\Debug\netcoreapp2.0\5 Different Numbers.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\5 Different Numbers\bin\Debug\netcoreapp2.0\5 Different Numbers.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\5 Different Numbers\bin\Debug\netcoreapp2.0\5 Different Numbers.dll
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\5 Different Numbers\bin\Debug\netcoreapp2.0\5 Different Numbers.pdb
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\5 Different Numbers\obj\Debug\netcoreapp2.0\5 Different Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\5 Different Numbers\obj\Debug\netcoreapp2.0\5 Different Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\5 Different Numbers\obj\Debug\netcoreapp2.0\5 Different Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\5 Different Numbers\obj\Debug\netcoreapp2.0\5 Different Numbers.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\5 Different Numbers\obj\Debug\netcoreapp2.0\5 Different Numbers.dll
+D:\SoftUni\C# Programming Fundamentals\CSharpConditionalStatementsandLoops-Exercises\5 Different Numbers\obj\Debug\netcoreapp2.0\5 Different Numbers.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Array Manipulator\bin\Debug\netcoreapp2.0\Array Manipulator.deps.json
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Array Manipulator\bin\Debug\netcoreapp2.0\Array Manipulator.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Array Manipulator\bin\Debug\netcoreapp2.0\Array Manipulator.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Array Manipulator\bin\Debug\netcoreapp2.0\Array Manipulator.dll
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Array Manipulator\bin\Debug\netcoreapp2.0\Array Manipulator.pdb
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Array Manipulator\obj\Debug\netcoreapp2.0\Array Manipulator.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Array Manipulator\obj\Debug\netcoreapp2.0\Array Manipulator.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Array Manipulator\obj\Debug\netcoreapp2.0\Array Manipulator.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Array Manipulator\obj\Debug\netcoreapp2.0\Array Manipulator.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Array Manipulator\obj\Debug\netcoreapp2.0\Array Manipulator.dll
+D:\SoftUni\C# Programming Fundamentals\Lists - Exercises\Array Manipulator\obj\Debug\netcoreapp2.0\Array Manipulator.pdb

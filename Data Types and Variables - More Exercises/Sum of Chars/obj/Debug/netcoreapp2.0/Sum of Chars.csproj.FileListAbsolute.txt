@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Sum of Chars\bin\Debug\netcoreapp2.0\Sum of Chars.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Sum of Chars\bin\Debug\netcoreapp2.0\Sum of Chars.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Sum of Chars\bin\Debug\netcoreapp2.0\Sum of Chars.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Sum of Chars\bin\Debug\netcoreapp2.0\Sum of Chars.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Sum of Chars\bin\Debug\netcoreapp2.0\Sum of Chars.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Sum of Chars\obj\Debug\netcoreapp2.0\Sum of Chars.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Sum of Chars\obj\Debug\netcoreapp2.0\Sum of Chars.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Sum of Chars\obj\Debug\netcoreapp2.0\Sum of Chars.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Sum of Chars\obj\Debug\netcoreapp2.0\Sum of Chars.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Sum of Chars\obj\Debug\netcoreapp2.0\Sum of Chars.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Sum of Chars\obj\Debug\netcoreapp2.0\Sum of Chars.pdb

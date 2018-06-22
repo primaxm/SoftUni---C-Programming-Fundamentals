@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 04 March 2018\Star Enigma\obj\Debug\netcoreapp2.0\Star Enigma.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 04 March 2018\Star Enigma\obj\Debug\netcoreapp2.0\Star Enigma.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 04 March 2018\Star Enigma\obj\Debug\netcoreapp2.0\Star Enigma.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 04 March 2018\Star Enigma\obj\Debug\netcoreapp2.0\Star Enigma.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 04 March 2018\Star Enigma\bin\Debug\netcoreapp2.0\Star Enigma.deps.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 04 March 2018\Star Enigma\bin\Debug\netcoreapp2.0\Star Enigma.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 04 March 2018\Star Enigma\bin\Debug\netcoreapp2.0\Star Enigma.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 04 March 2018\Star Enigma\bin\Debug\netcoreapp2.0\Star Enigma.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 04 March 2018\Star Enigma\bin\Debug\netcoreapp2.0\Star Enigma.pdb
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 04 March 2018\Star Enigma\obj\Debug\netcoreapp2.0\Star Enigma.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 04 March 2018\Star Enigma\obj\Debug\netcoreapp2.0\Star Enigma.pdb

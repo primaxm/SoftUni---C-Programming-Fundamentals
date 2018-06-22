@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Sum Arrays\bin\Debug\netcoreapp2.0\Sum Arrays.deps.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Sum Arrays\bin\Debug\netcoreapp2.0\Sum Arrays.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Sum Arrays\bin\Debug\netcoreapp2.0\Sum Arrays.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Sum Arrays\bin\Debug\netcoreapp2.0\Sum Arrays.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Sum Arrays\bin\Debug\netcoreapp2.0\Sum Arrays.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Sum Arrays\obj\Debug\netcoreapp2.0\Sum Arrays.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Sum Arrays\obj\Debug\netcoreapp2.0\Sum Arrays.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Sum Arrays\obj\Debug\netcoreapp2.0\Sum Arrays.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Sum Arrays\obj\Debug\netcoreapp2.0\Sum Arrays.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Sum Arrays\obj\Debug\netcoreapp2.0\Sum Arrays.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Sum Arrays\obj\Debug\netcoreapp2.0\Sum Arrays.csprojResolveAssemblyReference.cache

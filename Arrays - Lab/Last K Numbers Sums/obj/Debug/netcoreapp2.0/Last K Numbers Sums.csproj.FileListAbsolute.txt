@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Last K Numbers Sums\bin\Debug\netcoreapp2.0\Last K Numbers Sums.deps.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Last K Numbers Sums\bin\Debug\netcoreapp2.0\Last K Numbers Sums.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Last K Numbers Sums\bin\Debug\netcoreapp2.0\Last K Numbers Sums.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Last K Numbers Sums\bin\Debug\netcoreapp2.0\Last K Numbers Sums.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Last K Numbers Sums\bin\Debug\netcoreapp2.0\Last K Numbers Sums.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Last K Numbers Sums\obj\Debug\netcoreapp2.0\Last K Numbers Sums.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Last K Numbers Sums\obj\Debug\netcoreapp2.0\Last K Numbers Sums.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Last K Numbers Sums\obj\Debug\netcoreapp2.0\Last K Numbers Sums.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Last K Numbers Sums\obj\Debug\netcoreapp2.0\Last K Numbers Sums.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Last K Numbers Sums\obj\Debug\netcoreapp2.0\Last K Numbers Sums.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Last K Numbers Sums\obj\Debug\netcoreapp2.0\Last K Numbers Sums.csprojResolveAssemblyReference.cache

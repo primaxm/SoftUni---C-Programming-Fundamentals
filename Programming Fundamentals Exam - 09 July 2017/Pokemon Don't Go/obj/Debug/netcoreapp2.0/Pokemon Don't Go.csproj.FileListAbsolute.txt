@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Pokemon Don't Go\bin\Debug\netcoreapp2.0\Pokemon Don't Go.deps.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Pokemon Don't Go\bin\Debug\netcoreapp2.0\Pokemon Don't Go.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Pokemon Don't Go\bin\Debug\netcoreapp2.0\Pokemon Don't Go.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Pokemon Don't Go\bin\Debug\netcoreapp2.0\Pokemon Don't Go.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Pokemon Don't Go\bin\Debug\netcoreapp2.0\Pokemon Don't Go.pdb
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Pokemon Don't Go\obj\Debug\netcoreapp2.0\Pokemon Don't Go.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Pokemon Don't Go\obj\Debug\netcoreapp2.0\Pokemon Don't Go.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Pokemon Don't Go\obj\Debug\netcoreapp2.0\Pokemon Don't Go.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Pokemon Don't Go\obj\Debug\netcoreapp2.0\Pokemon Don't Go.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Pokemon Don't Go\obj\Debug\netcoreapp2.0\Pokemon Don't Go.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Pokemon Don't Go\obj\Debug\netcoreapp2.0\Pokemon Don't Go.pdb

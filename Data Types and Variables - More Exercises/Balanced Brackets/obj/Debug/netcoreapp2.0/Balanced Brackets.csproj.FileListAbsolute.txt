@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Balanced Brackets\bin\Debug\netcoreapp2.0\Balanced Brackets.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Balanced Brackets\bin\Debug\netcoreapp2.0\Balanced Brackets.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Balanced Brackets\bin\Debug\netcoreapp2.0\Balanced Brackets.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Balanced Brackets\bin\Debug\netcoreapp2.0\Balanced Brackets.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Balanced Brackets\bin\Debug\netcoreapp2.0\Balanced Brackets.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Balanced Brackets\obj\Debug\netcoreapp2.0\Balanced Brackets.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Balanced Brackets\obj\Debug\netcoreapp2.0\Balanced Brackets.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Balanced Brackets\obj\Debug\netcoreapp2.0\Balanced Brackets.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Balanced Brackets\obj\Debug\netcoreapp2.0\Balanced Brackets.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Balanced Brackets\obj\Debug\netcoreapp2.0\Balanced Brackets.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Balanced Brackets\obj\Debug\netcoreapp2.0\Balanced Brackets.pdb

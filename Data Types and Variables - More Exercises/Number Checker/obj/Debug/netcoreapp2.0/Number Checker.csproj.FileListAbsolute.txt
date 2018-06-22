@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Number Checker\bin\Debug\netcoreapp2.0\Number Checker.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Number Checker\bin\Debug\netcoreapp2.0\Number Checker.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Number Checker\bin\Debug\netcoreapp2.0\Number Checker.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Number Checker\bin\Debug\netcoreapp2.0\Number Checker.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Number Checker\bin\Debug\netcoreapp2.0\Number Checker.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Number Checker\obj\Debug\netcoreapp2.0\Number Checker.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Number Checker\obj\Debug\netcoreapp2.0\Number Checker.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Number Checker\obj\Debug\netcoreapp2.0\Number Checker.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Number Checker\obj\Debug\netcoreapp2.0\Number Checker.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Number Checker\obj\Debug\netcoreapp2.0\Number Checker.pdb

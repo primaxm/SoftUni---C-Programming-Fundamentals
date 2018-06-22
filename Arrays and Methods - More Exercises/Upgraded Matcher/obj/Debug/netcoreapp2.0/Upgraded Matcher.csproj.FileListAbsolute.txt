@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Upgraded Matcher\obj\Debug\netcoreapp2.0\Upgraded Matcher.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Upgraded Matcher\obj\Debug\netcoreapp2.0\Upgraded Matcher.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Upgraded Matcher\obj\Debug\netcoreapp2.0\Upgraded Matcher.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Upgraded Matcher\obj\Debug\netcoreapp2.0\Upgraded Matcher.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Upgraded Matcher\bin\Debug\netcoreapp2.0\Upgraded Matcher.deps.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Upgraded Matcher\bin\Debug\netcoreapp2.0\Upgraded Matcher.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Upgraded Matcher\bin\Debug\netcoreapp2.0\Upgraded Matcher.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Upgraded Matcher\bin\Debug\netcoreapp2.0\Upgraded Matcher.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Upgraded Matcher\bin\Debug\netcoreapp2.0\Upgraded Matcher.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Upgraded Matcher\obj\Debug\netcoreapp2.0\Upgraded Matcher.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Upgraded Matcher\obj\Debug\netcoreapp2.0\Upgraded Matcher.pdb

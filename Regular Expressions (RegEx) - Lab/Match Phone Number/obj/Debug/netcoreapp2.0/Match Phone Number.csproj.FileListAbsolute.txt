@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Phone Number\obj\Debug\netcoreapp2.0\Match Phone Number.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Phone Number\obj\Debug\netcoreapp2.0\Match Phone Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Phone Number\obj\Debug\netcoreapp2.0\Match Phone Number.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Phone Number\obj\Debug\netcoreapp2.0\Match Phone Number.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Phone Number\bin\Debug\netcoreapp2.0\Match Phone Number.deps.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Phone Number\bin\Debug\netcoreapp2.0\Match Phone Number.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Phone Number\bin\Debug\netcoreapp2.0\Match Phone Number.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Phone Number\bin\Debug\netcoreapp2.0\Match Phone Number.dll
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Phone Number\bin\Debug\netcoreapp2.0\Match Phone Number.pdb
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Phone Number\obj\Debug\netcoreapp2.0\Match Phone Number.dll
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Lab\Match Phone Number\obj\Debug\netcoreapp2.0\Match Phone Number.pdb

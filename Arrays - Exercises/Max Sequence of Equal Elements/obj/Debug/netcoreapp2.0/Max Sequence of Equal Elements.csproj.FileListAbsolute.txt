@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\Max Sequence of Equal Elements.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\Max Sequence of Equal Elements.deps.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\Max Sequence of Equal Elements.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\Max Sequence of Equal Elements.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\Max Sequence of Equal Elements.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\Max Sequence of Equal Elements.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\Max Sequence of Equal Elements.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays - Exercises\Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\Max Sequence of Equal Elements.pdb

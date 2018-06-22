@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Weather Forecast\bin\Debug\netcoreapp2.0\Weather Forecast.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Weather Forecast\bin\Debug\netcoreapp2.0\Weather Forecast.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Weather Forecast\bin\Debug\netcoreapp2.0\Weather Forecast.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Weather Forecast\bin\Debug\netcoreapp2.0\Weather Forecast.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Weather Forecast\bin\Debug\netcoreapp2.0\Weather Forecast.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Weather Forecast\obj\Debug\netcoreapp2.0\Weather Forecast.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Weather Forecast\obj\Debug\netcoreapp2.0\Weather Forecast.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Weather Forecast\obj\Debug\netcoreapp2.0\Weather Forecast.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Weather Forecast\obj\Debug\netcoreapp2.0\Weather Forecast.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Weather Forecast\obj\Debug\netcoreapp2.0\Weather Forecast.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Weather Forecast\obj\Debug\netcoreapp2.0\Weather Forecast.pdb

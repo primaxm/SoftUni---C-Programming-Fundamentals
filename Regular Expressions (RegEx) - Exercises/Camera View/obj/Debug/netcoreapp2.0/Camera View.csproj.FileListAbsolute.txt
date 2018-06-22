@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Camera View\bin\Debug\netcoreapp2.0\Camera View.deps.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Camera View\bin\Debug\netcoreapp2.0\Camera View.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Camera View\bin\Debug\netcoreapp2.0\Camera View.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Camera View\bin\Debug\netcoreapp2.0\Camera View.dll
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Camera View\bin\Debug\netcoreapp2.0\Camera View.pdb
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Camera View\obj\Debug\netcoreapp2.0\Camera View.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Camera View\obj\Debug\netcoreapp2.0\Camera View.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Camera View\obj\Debug\netcoreapp2.0\Camera View.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Camera View\obj\Debug\netcoreapp2.0\Camera View.dll
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Camera View\obj\Debug\netcoreapp2.0\Camera View.pdb
+D:\SoftUni\C# Programming Fundamentals\Regular Expressions (RegEx) - Exercises\Camera View\obj\Debug\netcoreapp2.0\Camera View.csprojResolveAssemblyReference.cache

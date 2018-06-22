@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\Anonymous Cache\bin\Debug\netcoreapp2.0\Anonymous Cache.deps.json
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\Anonymous Cache\bin\Debug\netcoreapp2.0\Anonymous Cache.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\Anonymous Cache\bin\Debug\netcoreapp2.0\Anonymous Cache.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\Anonymous Cache\bin\Debug\netcoreapp2.0\Anonymous Cache.dll
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\Anonymous Cache\bin\Debug\netcoreapp2.0\Anonymous Cache.pdb
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\Anonymous Cache\obj\Debug\netcoreapp2.0\Anonymous Cache.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\Anonymous Cache\obj\Debug\netcoreapp2.0\Anonymous Cache.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\Anonymous Cache\obj\Debug\netcoreapp2.0\Anonymous Cache.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\Anonymous Cache\obj\Debug\netcoreapp2.0\Anonymous Cache.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\Anonymous Cache\obj\Debug\netcoreapp2.0\Anonymous Cache.dll
+D:\SoftUni\C# Programming Fundamentals\ProgrammingFundamentals Exam 05 November 2017\Anonymous Cache\obj\Debug\netcoreapp2.0\Anonymous Cache.pdb

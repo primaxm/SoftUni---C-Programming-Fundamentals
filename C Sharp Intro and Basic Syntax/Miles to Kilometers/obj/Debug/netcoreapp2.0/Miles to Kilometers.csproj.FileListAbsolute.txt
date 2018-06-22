@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Miles to Kilometers\bin\Debug\netcoreapp2.0\Miles to Kilometers.deps.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Miles to Kilometers\bin\Debug\netcoreapp2.0\Miles to Kilometers.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Miles to Kilometers\bin\Debug\netcoreapp2.0\Miles to Kilometers.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Miles to Kilometers\bin\Debug\netcoreapp2.0\Miles to Kilometers.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Miles to Kilometers\bin\Debug\netcoreapp2.0\Miles to Kilometers.pdb
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Miles to Kilometers\obj\Debug\netcoreapp2.0\Miles to Kilometers.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Miles to Kilometers\obj\Debug\netcoreapp2.0\Miles to Kilometers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Miles to Kilometers\obj\Debug\netcoreapp2.0\Miles to Kilometers.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Miles to Kilometers\obj\Debug\netcoreapp2.0\Miles to Kilometers.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Miles to Kilometers\obj\Debug\netcoreapp2.0\Miles to Kilometers.dll
+D:\SoftUni\C# Programming Fundamentals\C Sharp Intro and Basic Syntax\Miles to Kilometers\obj\Debug\netcoreapp2.0\Miles to Kilometers.pdb

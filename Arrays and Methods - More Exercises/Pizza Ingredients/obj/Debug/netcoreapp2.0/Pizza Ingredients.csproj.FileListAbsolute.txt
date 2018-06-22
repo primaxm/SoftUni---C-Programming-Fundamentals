@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Pizza Ingredients\bin\Debug\netcoreapp2.0\Pizza Ingredients.deps.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Pizza Ingredients\bin\Debug\netcoreapp2.0\Pizza Ingredients.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Pizza Ingredients\bin\Debug\netcoreapp2.0\Pizza Ingredients.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Pizza Ingredients\bin\Debug\netcoreapp2.0\Pizza Ingredients.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Pizza Ingredients\bin\Debug\netcoreapp2.0\Pizza Ingredients.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Pizza Ingredients\obj\Debug\netcoreapp2.0\Pizza Ingredients.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Pizza Ingredients\obj\Debug\netcoreapp2.0\Pizza Ingredients.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Pizza Ingredients\obj\Debug\netcoreapp2.0\Pizza Ingredients.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Pizza Ingredients\obj\Debug\netcoreapp2.0\Pizza Ingredients.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Pizza Ingredients\obj\Debug\netcoreapp2.0\Pizza Ingredients.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Pizza Ingredients\obj\Debug\netcoreapp2.0\Pizza Ingredients.pdb

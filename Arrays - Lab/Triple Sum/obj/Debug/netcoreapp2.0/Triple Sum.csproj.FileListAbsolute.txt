@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Triple Sum\obj\Debug\netcoreapp2.0\Triple Sum.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Triple Sum\obj\Debug\netcoreapp2.0\Triple Sum.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Triple Sum\obj\Debug\netcoreapp2.0\Triple Sum.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Triple Sum\obj\Debug\netcoreapp2.0\Triple Sum.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Triple Sum\bin\Debug\netcoreapp2.0\Triple Sum.deps.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Triple Sum\bin\Debug\netcoreapp2.0\Triple Sum.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Triple Sum\bin\Debug\netcoreapp2.0\Triple Sum.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Triple Sum\bin\Debug\netcoreapp2.0\Triple Sum.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Triple Sum\bin\Debug\netcoreapp2.0\Triple Sum.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Triple Sum\obj\Debug\netcoreapp2.0\Triple Sum.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays - Lab\Triple Sum\obj\Debug\netcoreapp2.0\Triple Sum.pdb

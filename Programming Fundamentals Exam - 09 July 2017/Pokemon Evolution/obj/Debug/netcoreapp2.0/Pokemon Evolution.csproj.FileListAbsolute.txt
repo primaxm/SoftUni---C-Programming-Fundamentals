@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Pokemon Evolution\bin\Debug\netcoreapp2.0\Pokemon Evolution.deps.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Pokemon Evolution\bin\Debug\netcoreapp2.0\Pokemon Evolution.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Pokemon Evolution\bin\Debug\netcoreapp2.0\Pokemon Evolution.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Pokemon Evolution\bin\Debug\netcoreapp2.0\Pokemon Evolution.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Pokemon Evolution\bin\Debug\netcoreapp2.0\Pokemon Evolution.pdb
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Pokemon Evolution\obj\Debug\netcoreapp2.0\Pokemon Evolution.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Pokemon Evolution\obj\Debug\netcoreapp2.0\Pokemon Evolution.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Pokemon Evolution\obj\Debug\netcoreapp2.0\Pokemon Evolution.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Pokemon Evolution\obj\Debug\netcoreapp2.0\Pokemon Evolution.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Pokemon Evolution\obj\Debug\netcoreapp2.0\Pokemon Evolution.dll
+D:\SoftUni\C# Programming Fundamentals\Programming Fundamentals Exam - 09 July 2017\Pokemon Evolution\obj\Debug\netcoreapp2.0\Pokemon Evolution.pdb

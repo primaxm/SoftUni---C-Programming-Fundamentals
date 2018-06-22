@@ -1,0 +1,10 @@
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Beer Kegs\bin\Debug\netcoreapp2.0\Beer Kegs.deps.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Beer Kegs\bin\Debug\netcoreapp2.0\Beer Kegs.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Beer Kegs\bin\Debug\netcoreapp2.0\Beer Kegs.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Beer Kegs\bin\Debug\netcoreapp2.0\Beer Kegs.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Beer Kegs\bin\Debug\netcoreapp2.0\Beer Kegs.pdb
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Beer Kegs\obj\Debug\netcoreapp2.0\Beer Kegs.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Beer Kegs\obj\Debug\netcoreapp2.0\Beer Kegs.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Beer Kegs\obj\Debug\netcoreapp2.0\Beer Kegs.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Beer Kegs\obj\Debug\netcoreapp2.0\Beer Kegs.dll
+D:\SoftUni\C# Programming Fundamentals\Data Types and Variables - More Exercises\Beer Kegs\obj\Debug\netcoreapp2.0\Beer Kegs.pdb

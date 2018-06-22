@@ -1,0 +1,11 @@
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Inventory Matcher\bin\Debug\netcoreapp2.0\Inventory Matcher.deps.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Inventory Matcher\bin\Debug\netcoreapp2.0\Inventory Matcher.runtimeconfig.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Inventory Matcher\bin\Debug\netcoreapp2.0\Inventory Matcher.runtimeconfig.dev.json
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Inventory Matcher\bin\Debug\netcoreapp2.0\Inventory Matcher.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Inventory Matcher\bin\Debug\netcoreapp2.0\Inventory Matcher.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Inventory Matcher\obj\Debug\netcoreapp2.0\Inventory Matcher.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Inventory Matcher\obj\Debug\netcoreapp2.0\Inventory Matcher.AssemblyInfoInputs.cache
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Inventory Matcher\obj\Debug\netcoreapp2.0\Inventory Matcher.AssemblyInfo.cs
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Inventory Matcher\obj\Debug\netcoreapp2.0\Inventory Matcher.dll
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Inventory Matcher\obj\Debug\netcoreapp2.0\Inventory Matcher.pdb
+D:\SoftUni\C# Programming Fundamentals\Arrays and Methods - More Exercises\Inventory Matcher\obj\Debug\netcoreapp2.0\Inventory Matcher.csprojResolveAssemblyReference.cache
